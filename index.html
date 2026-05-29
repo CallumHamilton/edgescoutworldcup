@@ -11,8 +11,7 @@
 
 <script async src="https://cdn.promotekit.com/pk.js" data-promotekit="8b0de79d-abfe-4d18-827e-08ad70d10fee"></script>
  
-<!-- Update canonical + og:url when your live domain is set -->
-<link rel="canonical" href="https://edgescoutworldcup.com/">
+<link rel="canonical" href="https://worldcup.edgescout.co.uk/">
 
 <link rel="icon" href="favicon/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
@@ -24,7 +23,7 @@
 <meta property="og:site_name" content="EdgeScout">
 <meta property="og:title" content="EdgeScout — 2026 World Cup Antepost Value Guide">
 <meta property="og:description" content="200+ points profit at 25%+ ROI, independently proofed. Get our free World Cup antepost guide: mispriced teams, top scorers, dark horses, and tournament totals.">
-<meta property="og:url" content="https://edgescoutworldcup.com/">
+<meta property="og:url" content="https://worldcup.edgescout.co.uk/">
 <meta property="og:image" content="https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&amp;w=1200&amp;auto=format&amp;fit=crop">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -503,6 +502,14 @@
           style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;"
         >
         <input type="hidden" name="locale" value="en">
+        <!--
+          Brevo: Contacts → Settings → Contact attributes → add AFFILIATE (Text).
+          Empty = organic signup. Launch email buy button (per-recipient):
+            https://buy.stripe.com/YOUR_LINK?prefilled_email={{ contact.EMAIL }}
+            &client_reference_id={{ contact.AFFILIATE }}
+          Use a Brevo conditional so client_reference_id is omitted when AFFILIATE is blank.
+        -->
+        <input type="hidden" name="AFFILIATE" id="affiliate-input" value="">
         <button type="submit">Send me the guide →</button>
       </form>
 
@@ -547,6 +554,75 @@
 </div>
 
 <script>
+  /* Affiliate capture (?via=) → Brevo AFFILIATE + optional PromoteKit refer() */
+  window.EdgeScoutAffiliate = (function () {
+    const PARAM       = 'via';
+    const STORAGE_KEY = 'edgescout_affiliate';
+    const COOKIE_NAME = 'es_aff';
+    const COOKIE_DAYS = 90;
+    const VALID_ID_RX = /^[A-Za-z0-9_-]{1,64}$/;
+
+    function readUrlParam() {
+      try {
+        const v = new URLSearchParams(window.location.search).get(PARAM);
+        if (!v) return null;
+        return VALID_ID_RX.test(v) ? v : null;
+      } catch (e) { return null; }
+    }
+
+    function readCookie(name) {
+      const m = document.cookie.match(new RegExp('(?:^|;\\s*)' + name + '=([^;]+)'));
+      return m ? decodeURIComponent(m[1]) : null;
+    }
+
+    function writeCookie(name, value, days) {
+      const exp = new Date(Date.now() + days * 86400000).toUTCString();
+      const secure = location.protocol === 'https:' ? '; Secure' : '';
+      document.cookie =
+        name + '=' + encodeURIComponent(value) +
+        '; expires=' + exp + '; path=/; SameSite=Lax' + secure;
+    }
+
+    function readStored() {
+      let v = null;
+      try { v = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+      if (!v) v = readCookie(COOKIE_NAME);
+      return v && VALID_ID_RX.test(v) ? v : null;
+    }
+
+    function writeStored(value) {
+      try { localStorage.setItem(STORAGE_KEY, value); } catch (e) {}
+      writeCookie(COOKIE_NAME, value, COOKIE_DAYS);
+    }
+
+    const fromUrl = readUrlParam();
+    if (fromUrl) writeStored(fromUrl);
+
+    function get() {
+      return readStored();
+    }
+
+    function syncToForm() {
+      const field = document.getElementById('affiliate-input');
+      if (!field) return;
+      field.value = get() || '';
+    }
+
+    function registerWithPromoteKit(email) {
+      const id = get();
+      if (!id || !email) return;
+      try {
+        if (window.promotekit && typeof window.promotekit.refer === 'function') {
+          window.promotekit.refer(email);
+        }
+      } catch (e) { /* PromoteKit script not loaded yet */ }
+    }
+
+    syncToForm();
+
+    return { get: get, syncToForm: syncToForm, registerWithPromoteKit: registerWithPromoteKit };
+  })();
+
   (function () {
     const form        = document.getElementById('signup-form');
     const input       = document.getElementById('email-input');
@@ -554,6 +630,7 @@
     const subText     = document.getElementById('form-sub');
     const successBox  = document.getElementById('success-box');
     const honeypot    = form.querySelector('input[name="email_address_check"]');
+    const affiliate   = window.EdgeScoutAffiliate;
 
     // Loose RFC-style sanity check — Brevo will do the real validation.
     const EMAIL_RX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -583,6 +660,11 @@
       if (honeypot && honeypot.value) {
         e.preventDefault();
         return false;
+      }
+
+      if (affiliate) {
+        affiliate.syncToForm();
+        affiliate.registerWithPromoteKit(email);
       }
 
       // Let the real form POST happen into the hidden iframe.
