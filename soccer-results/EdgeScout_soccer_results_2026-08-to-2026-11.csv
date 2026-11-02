@@ -9,7 +9,7 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-08-04,Ararat Armenia vs NK Celje,Other,Other,Over 2.5 match goals,Win,2.04,Exchanges,1.04,1.8,Exchanges,0.8,13.3,10–20%
 2026-08-04,Sparta Prague vs Olympique Lyonnais,Other,Other,Olympique Lyonnais 1x2,Loss,2.1,Exchanges,-1.0,2.0,Exchanges,-1.0,5.0,5–10%
 2026-08-04,Union Saint-Gilloise vs Bodo/Glimt,Other,Other,Union Saint-Gilloise 1x2,Loss,2.4,"BetGoodwin, Coral, Ladbrokes, Unibet",-1.0,2.1,Exchanges,-1.0,14.3,10–20%
-2026-08-04,Dinamo Zagreb vs Kauno Zalgiris,Other,Anytime goalscorer,Both teams to score - Yes,Loss,2.74,"Betfred, Exchanges",-1.0,2.5,Exchanges,-1.0,9.6,5–10%
+2026-08-04,Dinamo Zagreb vs Kauno Zalgiris,Other,Other,Both teams to score - Yes,Loss,2.74,"Betfred, Exchanges",-1.0,2.5,Exchanges,-1.0,9.6,5–10%
 2026-08-05,AGF (Aarhus) vs FK Sabah,Other,Other,1x2 - FK Sabah,Loss,5.0,Exchanges,-1.0,4.75,Exchanges,-1.0,5.3,5–10%
 2026-08-05,Ferencvaros vs Gornik Zabrze,Other,Other,Match result and over 2.5 goals - Ferencvaros,Loss,2.7,Exchanges,-1.0,2.5,"AKBets, BresBet, PricedUp, SkyBet, StarSports, William Hill",-1.0,8.0,5–10%
 2026-08-05,Fenerbahce vs Sturm Graz,Other,Other,1x2 - Sturm Graz,Loss,9.0,SBK,-1.0,8.5,generally,-1.0,5.9,5–10%
@@ -26,7 +26,7 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-08-09,Kilmarnock Vs Celtic,SPFL,Corners,"Kilmarnock over 0.5 goals, over 4.5 corners",Win,4.33,PaddyPower,3.33,4.0,"Bet365, Boylesports",3.0,8.3,5–10%
 2026-08-09,Hearts vs Dundee United,SPFL,Other,Anytime assist - Jesse Randall,Loss,7.0,Betfred,-1.0,7.0,"BetMGM, Coral, Ladbrokes",-1.0,0.0,<5%
 2026-08-09,Motherwell Vs Falkirk,SPFL,Other,Handicap - Motherwell -1/ AH -1.5,Loss,3.37,Exchanges,-1.0,3.25,"AKBets, BresBet, PricedUp, SkyBet, StarSports",-1.0,3.7,<5%
-2026-08-09,Hearts vs Dundee United,SPFL,Anytime goalscorer,Both teams to score in 1st half,Loss,4.2,"Coral, Ladbrokes",-1.0,4.0,Generally,-1.0,5.0,5–10%
+2026-08-09,Hearts vs Dundee United,SPFL,Other,Both teams to score in 1st half,Loss,4.2,"Coral, Ladbrokes",-1.0,4.0,Generally,-1.0,5.0,5–10%
 2026-08-09,Rangers vs Hibernian,SPFL,Cards,Player shown a card - Vanja Dragojevic,Win,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",4.0,5.6,Exchange,4.6,-10.7,<5%
 2026-08-09,Rangers vs Hibernian,SPFL,Anytime goalscorer,Anytime goalscorer - Findlay Curtis,Loss,3.8,Betfair Exchange,-1.0,3.4,"AKBets, BresBet, PricedUp, StarSports",-1.0,11.8,10–20%
 2026-08-11,Kairat Almaty vs Levski Sofia,Other,Other,1x2 - Kairat,Loss,3.1,Betfair Exchange,-1.0,2.9,,-1.0,6.9,5–10%
@@ -63,7 +63,7 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-08-19,Atletico vs Malaga,La Liga,Anytime goalscorer,Anytime goalscorer - Ademola Lookman,Loss,2.5,Skybet,-1.0,2.4,"Exchanges, PaddyPower",-1.0,4.2,<5%
 2026-08-19,Celtic vs LASK,Other,Corners,LASK Corners - over 4.5,Loss,2.63,Boylesports,-1.0,2.5,"Bet Ahoy, Bet Tom, BetVictor, Sporting Index, Spreadex",-1.0,5.2,5–10%
 2026-08-20,Crvena Zvedza/Red Star Belgrade vs Viktoria Plzen,Other,Anytime goalscorer,Anytime goalscorer - David Krcik,Loss,16.0,"QuinnBet, Tote",-1.0,15.0,Midnite,-1.0,6.7,5–10%
-2026-08-20,Rangers vs Jablonec,Other,Anytime goalscorer,Both teams to score - Yes,Loss,2.1,"Bet365, BetFred, PaddyPower, QuinnBet",-1.0,2.05,"Exchanges, Generally",-1.0,2.4,<5%
+2026-08-20,Rangers vs Jablonec,Other,Other,Both teams to score - Yes,Loss,2.1,"Bet365, BetFred, PaddyPower, QuinnBet",-1.0,2.05,"Exchanges, Generally",-1.0,2.4,<5%
 2026-08-20,Gent vs Hibernian,Other,Other,Over 2.5 match goals,Loss,2.2,Exchanges,-1.0,2.1,Generally,-1.0,4.8,<5%
 2026-08-20,Braga vs Austria Wien,Other,Other,Over 2.5 match goals,Loss,2.05,"Bet365, Exchanges",-1.0,2.0,"10bet, Betfair Sportsbook, PaddyPower, SportingIndex, SpreadEx, Unibet",-1.0,2.5,<5%
 2026-08-20,Rangers vs Jablonec,Other,Other,Jablonec over 1.5 goals,Loss,5.5,"BetFred, Betfair Exchange, PaddyPower, SkyBet",-1.0,5.25,"BetVictor, Betway, Coral, Ladbrokes, Unibet",-1.0,4.8,<5%
@@ -94,13 +94,13 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-08-24,Fulham Vs Chelsea,Premier League,Other,Over 1.5 shots on target - Morgan Rogers,Loss,5.1,SBK,-1.0,5.5,Unibet,-1.0,-7.3,<5%
 2026-08-24,Fulham Vs Chelsea,Premier League,Other,Asian handicap - Chelsea -1.5,Loss,4.09,Exchanges,-1.0,4.0,Exchanges,-1.0,2.2,<5%
 2026-08-25,Ipswich Vs Leicester,Other,Other,First half handicap - Ipswich -1,Loss,4.75,Boylesports,-1.0,4.5,"Bet365, BetGoodwin, BetTom, Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.6,5–10%
-2026-08-25,Bodo/Glimt Vs NEC Nijmegen,Other,Anytime goalscorer,Both Teams to Score - No,Win,2.98,Exchanges,1.98,2.9,Exchanges,1.9,2.8,<5%
+2026-08-25,Bodo/Glimt Vs NEC Nijmegen,Other,Other,Both Teams to Score - No,Win,2.98,Exchanges,1.98,2.9,Exchanges,1.9,2.8,<5%
 2026-08-26,Tottenham Vs Charlton,Other,Cards,Most cards - Tottenham,Loss,5.25,Unibet,-1.0,5.0,"Bet365, Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.0,5–10%
 2026-08-26,Preston Vs Everton,Other,Cards,Player shown a card - Andrew Moran,Loss,6.0,Bet365,-1.0,5.1,SBK,-1.0,17.6,10–20%
 2026-08-26,AEK Athens vs Levski Sofia,Other,Other,Levski Sofia 1x2,Loss,8.2,Exchanges,-1.0,8.0,Exchanges,-1.0,2.5,<5%
 2026-08-27,Jablonec vs Rangers,Other,Cards,Player shown a card - Daniel Neil,Loss,5.0,BetMGM,-1.0,4.8,"888sport, William Hill",-1.0,4.2,<5%
 2026-08-27,Austria Wien vs Braga,Other,Other,Over 2.5 match goals,Loss,2.1,"Exchanges, Generally",-1.0,2.0,,-1.0,5.0,5–10%
-2026-08-27,St Gallen vs Nordsjaelland,Other,Anytime goalscorer,Both teams to score - No,Loss,3.2,SkyBet,-1.0,3.0,"AKBets, BetVictor, Betfair Sportsbook, Betfred, Boylesports, BresBet, PaddyPower, QuinnBet, Unibet",-1.0,6.7,5–10%
+2026-08-27,St Gallen vs Nordsjaelland,Other,Other,Both teams to score - No,Loss,3.2,SkyBet,-1.0,3.0,"AKBets, BetVictor, Betfair Sportsbook, Betfred, Boylesports, BresBet, PaddyPower, QuinnBet, Unibet",-1.0,6.7,5–10%
 2026-08-27,Freiburg Vs Motherwell,Other,Anytime goalscorer,Anytime goalscorer - Mathias Ginter,Loss,7.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,6.5,Bet365,-1.0,7.7,5–10%
 2026-08-28,Crystal Palace vs Man City,Premier League,Other,Shot on target from outside the box - Marc Guehi,Loss,21.0,SBK,-1.0,17.0,"888sport, William Hill",-1.0,23.5,20–30%
 2026-08-28,Crystal Palace vs Man City,Premier League,Cards,Player shown a card - Marc Guehi,Loss,6.5,"Bet365, Betfair Sportsbook, PaddyPower, SkyBet",-1.0,6.0,BoyleSports,-1.0,8.3,5–10%
@@ -270,7 +270,7 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-09-20,AC Milan vs Lecce,Serie A,Other,Over 0.5 shots on target - Lassana Coulibaly,Loss,5.5,"888sport, William Hill",-1.0,4.75,BetVictor,-1.0,15.8,10–20%
 2026-09-20,Valencia vs Real Sociedad,La Liga,Anytime goalscorer,Anytime goalscorer - Mikel Oyarzabal,Loss,3.25,SkyBet,-1.0,3.25,"Coral, Ladbrokes",-1.0,0.0,<5%
 2026-09-24,Netherlands vs Germany,International,Other,Netherlands 1x2,Loss,2.8,Exchanges,-1.0,2.7,,-1.0,3.7,<5%
-2026-09-24,Portugal vs Wales,International,Anytime goalscorer,Both teams to score - No,Win,1.83,Exchanges,0.83,1.8,,0.8,1.7,<5%
+2026-09-24,Portugal vs Wales,International,Other,Both teams to score - No,Win,1.83,Exchanges,0.83,1.8,,0.8,1.7,<5%
 2026-09-24,Netherlands vs Germany,International,Cards,Player shown a card - Micky van de Ven,Loss,6.0,Bet365,-1.0,5.0,"Betfair Sportsbook, BoyleSports, PaddyPower",-1.0,20.0,10–20%
 2026-09-24,Netherlands vs Germany,International,Cards,Player shown a card - Nico Schlotterbeck,Loss,5.5,Bet365,-1.0,5.0,"Betfair Exchange, Skybet",-1.0,10.0,10–20%
 2026-09-24,Netherlands vs Germany,International,Cards,Player shown a card - Jan Paul Van Hecke,Win,6.0,"Bet365, SkyBet",5.0,5.5,"Betfair Sportsbook, PaddyPower",4.5,9.1,5–10%
@@ -282,7 +282,7 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-09-25,Poland Vs Bosnia,International,Other,Over 0.5 shots on target - Nikola Katic,Loss,6.5,"Coral, Ladbrokes",-1.0,6.0,Bet365,-1.0,8.3,5–10%
 2026-09-25,Turkey Vs France,International,Anytime goalscorer,Anytime goalscorer - Can Uzun,Loss,5.5,SkyBet,-1.0,5.0,"Bet365, PaddyPower, SkyBet",-1.0,10.0,10–20%
 2026-09-25,Poland Vs Bosnia,International,Anytime goalscorer,Anytime goalscorer - Haris Tabakovic,Loss,4.33,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,4.7,SBK,-1.0,-7.9,<5%
-2026-09-26,England vs Spain,International,Anytime goalscorer,Both teams to score - No,Loss,2.34,Exchange,-1.0,2.25,,-1.0,4.0,<5%
+2026-09-26,England vs Spain,International,Other,Both teams to score - No,Loss,2.34,Exchange,-1.0,2.25,,-1.0,4.0,<5%
 2026-09-26,England vs Spain,International,Anytime goalscorer,Anytime goalscorer - Ferran Torres,Win,3.25,Bet365,2.25,3.5,SBK,2.5,-7.1,<5%
 2026-09-26,England vs Spain,International,First goalscorer,First goalscorer - Ferran Torres,Loss,8.5,Bet365,-1.0,8.6,"Exchange, SBK",-1.0,-1.2,<5%
 2026-09-26,Czechia vs Croatia,International,Other,Over 1.5 fouls committed - Pavel Sulc,Loss,2.78,"Coral, Ladbrokes",-1.0,2.6,Betway,-1.0,6.9,5–10%
@@ -308,7 +308,7 @@ date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_book
 2026-10-01,Ireland vs Austria,International,Anytime goalscorer,Anytime goalscorer - Sasa Kalajdzic,Loss,3.0,"Betfair Sportsbook, MGM, PaddyPower, Skybet, bet365",-1.0,2.88,"888sport, William Hill",-1.0,4.2,<5%
 2026-10-02,Belgium vs Turkey,International,Anytime goalscorer,Anytime goalscorer - Mika Godts,Loss,3.0,"Bet365, Betfair Sportsbook, MGM, PaddyPower, Skybet",-1.0,2.9,"888sport, Boylesports, William Hill",-1.0,3.4,<5%
 2026-10-02,Faroe Islands vs Slovakia,International,Other,Double chance - home or draw,Win,2.3,Exchanges,1.3,2.15,,1.15,7.0,5–10%
-2026-10-02,Belgium vs Turkey,International,Anytime goalscorer,Both teams to score - No,Win,2.54,Exchanges,1.54,2.5,,1.5,1.6,<5%
+2026-10-02,Belgium vs Turkey,International,Other,Both teams to score - No,Win,2.54,Exchanges,1.54,2.5,,1.5,1.6,<5%
 2026-10-02,France vs Italy,International,Cards,Over 1.5 fouls committed - Ricardo Calafiori,Loss,3.0,"Coral, Ladbrokes",-1.0,2.8,Betway,-1.0,7.1,5–10%
 2026-10-03,Croatia vs England,International,Cards,Player shown a card - Jarrell Quansah,Loss,7.0,Bet365,-1.0,5.8,"888sport, William Hill",-1.0,20.7,20–30%
 2026-10-03,North Macedonia vs Scotland,International,Other,Over 0.5 shots on target - Billy Gilmour,Loss,3.5,Bet365,-1.0,3.1,SBK,-1.0,12.9,10–20%
