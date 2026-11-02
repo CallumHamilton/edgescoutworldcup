@@ -1,0 +1,625 @@
+date,match,league,market,selection,result,bbp,bbp_books,pnl_bbp,mgp_low,mgp_books,pnl_mgp,ev_pct,ev_band
+2026-08-01,Greenock Morton vs Partick Thistle,Other,Other,Partick Thistle to win to nil/Partick to win and BTTS No,Win,2.8,"10bet, PricedUp",1.8,2.7,"BetVictor, BoyleSports, Unibet",1.7,3.7,<5%
+2026-08-01,Falkirk vs St Mirren,SPFL,Other,Over 2.5 fouls - Ryan Carr,Win,5.0,"Betfair Sportsbook, PaddyPower",4.0,4.5,SkyBet,3.5,11.1,10–20%
+2026-08-01,Falkirk vs St Mirren,SPFL,Cards,Player shown a card - Ryan Strain,Loss,4.75,"SBK, bet365",-1.0,5.0,"Coral, Ladbrokes",-1.0,-5.0,<5%
+2026-08-02,Hibernian vs Motherwell,SPFL,Anytime goalscorer,Anytime goalscorer - Felix Passlack,Loss,11.0,"AKBets, BresBet, PricedUp, StarSports",-1.0,,,,,No MGP
+2026-08-03,Celtic Vs Dundee,SPFL,Other,Over 0.5 shots on target - Ethan Hamilton,Loss,4.7,"BetMGM, VirginBet",-1.0,3.8,"Coral, Ladbrokes",-1.0,23.7,20–30%
+2026-08-03,Celtic Vs Dundee,SPFL,Cards,Player shown a card - Charlie Reilly,Loss,5.5,"Bet365, SkyBet",-1.0,5.1,SBK,-1.0,7.8,5–10%
+2026-08-04,Mjallby vs Slovan Bratislava,Other,Other,Slovan Bratislava 1x2,Win,3.85,Exchanges,2.85,3.7,Exchanges,2.7,4.1,<5%
+2026-08-04,Ararat Armenia vs NK Celje,Other,Other,Over 2.5 match goals,Win,2.04,Exchanges,1.04,1.8,Exchanges,0.8,13.3,10–20%
+2026-08-04,Sparta Prague vs Olympique Lyonnais,Other,Other,Olympique Lyonnais 1x2,Loss,2.1,Exchanges,-1.0,2.0,Exchanges,-1.0,5.0,5–10%
+2026-08-04,Union Saint-Gilloise vs Bodo/Glimt,Other,Other,Union Saint-Gilloise 1x2,Loss,2.4,"BetGoodwin, Coral, Ladbrokes, Unibet",-1.0,2.1,Exchanges,-1.0,14.3,10–20%
+2026-08-04,Dinamo Zagreb vs Kauno Zalgiris,Other,Anytime goalscorer,Both teams to score - Yes,Loss,2.74,"Betfred, Exchanges",-1.0,2.5,Exchanges,-1.0,9.6,5–10%
+2026-08-05,AGF (Aarhus) vs FK Sabah,Other,Other,1x2 - FK Sabah,Loss,5.0,Exchanges,-1.0,4.75,Exchanges,-1.0,5.3,5–10%
+2026-08-05,Ferencvaros vs Gornik Zabrze,Other,Other,Match result and over 2.5 goals - Ferencvaros,Loss,2.7,Exchanges,-1.0,2.5,"AKBets, BresBet, PricedUp, SkyBet, StarSports, William Hill",-1.0,8.0,5–10%
+2026-08-05,Fenerbahce vs Sturm Graz,Other,Other,1x2 - Sturm Graz,Loss,9.0,SBK,-1.0,8.5,generally,-1.0,5.9,5–10%
+2026-08-06,HJK vs Motherwell,Other,Other,1x2 - Motherwell,Loss,3.15,Exchanges,-1.0,3.0,Generally,-1.0,5.0,5–10%
+2026-08-06,RB Salzburg vs Pafos,Other,Other,1x2 - Pafos,Loss,6.4,SBK,-1.0,6.0,"BetVictor, SportingIndex, SpreadEx",-1.0,6.7,5–10%
+2026-08-06,Dynamo Kyiv vs Qarabag,Other,Other,1x2 - Qarabag,Loss,3.55,"Exchanges, SBK",-1.0,3.3,,-1.0,7.6,5–10%
+2026-08-06,CFR Cluj vs Tromso,Other,Other,1x2 - CFR Cluj,Loss,3.25,Exchanges,-1.0,3.1,"Coral, Ladbrokes",-1.0,4.8,<5%
+2026-08-06,Jagiellonia Bialystok vs Rangers,Other,Cards,Player shown a card - Yuki Kobayashi,Win,7.0,"888sport, William Hill",6.0,6.5,BetFred,5.5,7.7,5–10%
+2026-08-07,Middlesbrough vs Wrexham,Championship,Cards,Player shown a card - Jeremy Sarmiento,Loss,9.0,Bet365,-1.0,8.6,SBK,-1.0,4.7,<5%
+2026-08-08,St Mirren vs St Johnstone,SPFL,Other,Over 1.5 shots on target - Killian Phillips,Loss,7.5,VirginBet,-1.0,,,,,No MGP
+2026-08-08,St Mirren vs St Johnstone,SPFL,Other,Anytime assist - Samuel Ramos,Loss,7.5,BetMGM,-1.0,7.0,"Coral, Ladbrokes",-1.0,7.1,5–10%
+2026-08-08,Colchester Vs Southampton,Other,Cards,Player shown a card - Ellis Iandolo,Loss,4.0,SkyBet,-1.0,3.75,"Betfair Sportsbook, PaddyPower, QuinnBet",-1.0,6.7,5–10%
+2026-08-09,Kilmarnock Vs Celtic,SPFL,Cards,Player shown a card - George Stanger,Loss,6.5,"10bet, BetMGM",-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-08-09,Kilmarnock Vs Celtic,SPFL,Corners,"Kilmarnock over 0.5 goals, over 4.5 corners",Win,4.33,PaddyPower,3.33,4.0,"Bet365, Boylesports",3.0,8.3,5–10%
+2026-08-09,Hearts vs Dundee United,SPFL,Other,Anytime assist - Jesse Randall,Loss,7.0,Betfred,-1.0,7.0,"BetMGM, Coral, Ladbrokes",-1.0,0.0,<5%
+2026-08-09,Motherwell Vs Falkirk,SPFL,Other,Handicap - Motherwell -1/ AH -1.5,Loss,3.37,Exchanges,-1.0,3.25,"AKBets, BresBet, PricedUp, SkyBet, StarSports",-1.0,3.7,<5%
+2026-08-09,Hearts vs Dundee United,SPFL,Anytime goalscorer,Both teams to score in 1st half,Loss,4.2,"Coral, Ladbrokes",-1.0,4.0,Generally,-1.0,5.0,5–10%
+2026-08-09,Rangers vs Hibernian,SPFL,Cards,Player shown a card - Vanja Dragojevic,Win,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",4.0,5.6,Exchange,4.6,-10.7,<5%
+2026-08-09,Rangers vs Hibernian,SPFL,Anytime goalscorer,Anytime goalscorer - Findlay Curtis,Loss,3.8,Betfair Exchange,-1.0,3.4,"AKBets, BresBet, PricedUp, StarSports",-1.0,11.8,10–20%
+2026-08-11,Kairat Almaty vs Levski Sofia,Other,Other,1x2 - Kairat,Loss,3.1,Betfair Exchange,-1.0,2.9,,-1.0,6.9,5–10%
+2026-08-11,Bodo/Glimt vs Union St. Gilloise,Other,Other,1x2 - Union St. Gilloise,Loss,5.2,Betfair Exchange,-1.0,5.0,"Exchange, SportingIndex, SpreadEx",-1.0,4.0,<5%
+2026-08-11,FC Sabah vs AGF Aarhus,Other,Other,1x2 - FC Sabah,Win,2.0,Betfair Exchange,1.0,1.95,,0.95,2.6,<5%
+2026-08-12,GKS Katowice vs Hapoel Tel Aviv,Other,Anytime goalscorer,Anytime goalscorer - Arkadiusz Jedrych,Win,13.0,Tote,12.0,10.0,LadBet,9.0,30.0,30%+
+2026-08-12,PSG vs Aston Villa,Other,Other,Over 6.5 goalkeeper saves - Aston Villa,Loss,11.0,"Betfair Sportsbook, PaddyPower",-1.0,10.0,"Bet365, SkyBet",-1.0,10.0,10–20%
+2026-08-13,Pafos vs RB Salzburg,Other,Other,Handicap - Pafos -1,Loss,7.0,"Betfair Sportsbook, Betway, PaddyPower, SkyBet",-1.0,6.5,"Coral, Ladbrokes, Unibet",-1.0,7.7,5–10%
+2026-08-13,Rangers vs Jagiellonia Bialystok,Other,Cards,Player shown a card - Thelo Aasgaard,Loss,7.5,"888sport, William Hill",-1.0,7.0,BetFred,-1.0,7.1,5–10%
+2026-08-13,Rangers vs Jagiellonia Bialystok,Other,Other,1x2 - Jagiellonia Bialystok,Loss,7.2,Exchanges,-1.0,7.0,"10bet, AKBets, BetVictor, Exchanges",-1.0,2.9,<5%
+2026-08-13,Hearts vs Benfica,Other,Anytime goalscorer,Anytime goalscorer - Tom Renaud,Win,9.5,Bet365,8.5,9.0,"Betfair Sportsbook, PaddyPower, SkyBet",8.0,5.6,5–10%
+2026-08-14,Wolves vs Blackburn,Championship,Cards,Player shown a card - Adam Forshaw,Win,4.5,SBK,3.5,4.5,Bet365,3.5,0.0,<5%
+2026-08-15,Bolton Vs Preston,Championship,Cards,Player shown a card - Andrew Hughes,Loss,5.5,"10bet, BetMGM, William Hill enhanced price",-1.0,5.0,"Coral, Ladbrokes",-1.0,10.0,10–20%
+2026-08-15,Bradford vs Peterborough,Other,Method of goal,Method of 1st goal - Header,Win,6.0,"888sport, Bet365, William Hill",5.0,,,,,No MGP
+2026-08-15,Norwich vs West Brom,Championship,Cards,Player shown a card - Pelle Matsson,Loss,5.5,"10bet, BetMGM",-1.0,5.0,"888sport, SkyBet, William Hill impact sub",-1.0,10.0,10–20%
+2026-08-15,Bristol City vs Millwall,Championship,Cards,Player shown a card - Sam Greenwood,Loss,6.0,"PaddyPower, SkyBet",-1.0,5.75,"Coral, Ladbrokes",-1.0,4.3,<5%
+2026-08-15,Bristol City vs Millwall,Championship,Cards,Player shown a card - Zak Sturge,Loss,5.25,"Coral, Ladbrokes",-1.0,4.8,"888sport, William Hill",-1.0,9.4,5–10%
+2026-08-15,Portsmouth Vs QPR,Championship,Cards,Player shown a card - Luke Brooke-Smith,Loss,7.0,"888sport, Bet365, SkyBet, William Hill",-1.0,7.5,"10bet, BetMGM, SportingIndex",-1.0,-6.7,<5%
+2026-08-15,Sheffield United Vs Birmingham,Championship,Cards,Player shown a card - Tomoki Iwata,Loss,5.0,"888sport, William Hill",-1.0,5.5,"10bet, BetMGM",-1.0,-9.1,<5%
+2026-08-15,Alaves vs Getafe,La Liga,Method of goal,Method of 1st goal - Header,Win,7.0,888sport,6.0,6.5,"Bet365, Betway",5.5,7.7,5–10%
+2026-08-15,Alaves vs Getafe,La Liga,Cards,Player shown a card - Abde Rebbach,Win,5.0,Skybet,4.0,4.33,Bet365,3.33,15.5,10–20%
+2026-08-15,Alaves vs Getafe,La Liga,Cards,Player shown a card - Antonio Blanco,Win,4.5,SBK,3.5,4.0,"Betfair Sportsbook, PaddyPower, SkyBet",3.0,12.5,10–20%
+2026-08-16,Arsenal vs Man City,Premier League,Other,Over 1.5 shots on target - Christos Tzolis,Loss,4.6,SBK,-1.0,4.0,PaddyPower,-1.0,15.0,10–20%
+2026-08-16,Rangers vs St Mirren,SPFL,Anytime goalscorer,Anytime goalscorer - Killian Phillips,Loss,6.75,VirginBet,-1.0,6.25,"AKBets, BresBet, PricedUp, StarSports",-1.0,8.0,5–10%
+2026-08-16,Rangers vs St Mirren,SPFL,Other,To qualify - St Mirren,Loss,5.5,"AKBets, Betfair Sportsbook, BresBet, PaddyPower, PricedUp, SkyBet, StarSports",-1.0,,,,,No MGP
+2026-08-16,Burnley vs West Ham,Championship,Cards,Player shown a card - Zian Flemming,Win,5.8,"888sport, William Hill",4.8,6.0,"10bet, BetMGM",5.0,-3.3,<5%
+2026-08-16,Espanyol Vs Levante,La Liga,Method of goal,Method of 1st goal - Header,Loss,6.5,"888sport, Bet365, Betway",-1.0,6.0,if cut,-1.0,8.3,5–10%
+2026-08-17,Cardiff vs Wrexham,Championship,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, Bet365, William Hill",-1.0,8.3,5–10%
+2026-08-17,Cardiff vs Wrexham,Championship,Other,Anytime assist - Callum Scanlon,Loss,10.0,Bet365,-1.0,9.8,SBK,-1.0,2.0,<5%
+2026-08-17,Deportivo vs Elche,La Liga,Cards,Player shown a card - Giacomo Quagliata,Loss,5.0,Bet365,-1.0,4.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,11.1,10–20%
+2026-08-18,Fenerbahce vs Lyon,Other,Cards,Player shown a card - Milan Skriniar,Win,5.0,SBK,4.0,4.5,"Betfair Sportsbook, PaddyPower, SkyBet",3.5,11.1,10–20%
+2026-08-18,Levski Sofia vs AEK Athens,Other,Cards,Player shown a card - Luka Jovic,Loss,5.7,SBK,-1.0,5.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,3.6,<5%
+2026-08-18,Levski Sofia vs AEK Athens,Other,Other,Over 2.5 match goals,Loss,2.46,Exchanges,-1.0,2.4,Exchanges,-1.0,2.5,<5%
+2026-08-19,Atletico vs Malaga,La Liga,Anytime goalscorer,Anytime goalscorer - Ademola Lookman,Loss,2.5,Skybet,-1.0,2.4,"Exchanges, PaddyPower",-1.0,4.2,<5%
+2026-08-19,Celtic vs LASK,Other,Corners,LASK Corners - over 4.5,Loss,2.63,Boylesports,-1.0,2.5,"Bet Ahoy, Bet Tom, BetVictor, Sporting Index, Spreadex",-1.0,5.2,5–10%
+2026-08-20,Crvena Zvedza/Red Star Belgrade vs Viktoria Plzen,Other,Anytime goalscorer,Anytime goalscorer - David Krcik,Loss,16.0,"QuinnBet, Tote",-1.0,15.0,Midnite,-1.0,6.7,5–10%
+2026-08-20,Rangers vs Jablonec,Other,Anytime goalscorer,Both teams to score - Yes,Loss,2.1,"Bet365, BetFred, PaddyPower, QuinnBet",-1.0,2.05,"Exchanges, Generally",-1.0,2.4,<5%
+2026-08-20,Gent vs Hibernian,Other,Other,Over 2.5 match goals,Loss,2.2,Exchanges,-1.0,2.1,Generally,-1.0,4.8,<5%
+2026-08-20,Braga vs Austria Wien,Other,Other,Over 2.5 match goals,Loss,2.05,"Bet365, Exchanges",-1.0,2.0,"10bet, Betfair Sportsbook, PaddyPower, SportingIndex, SpreadEx, Unibet",-1.0,2.5,<5%
+2026-08-20,Rangers vs Jablonec,Other,Other,Jablonec over 1.5 goals,Loss,5.5,"BetFred, Betfair Exchange, PaddyPower, SkyBet",-1.0,5.25,"BetVictor, Betway, Coral, Ladbrokes, Unibet",-1.0,4.8,<5%
+2026-08-21,Arsenal Vs Coventry,Premier League,Cards,Player shown a card - Milan van Ewijk,Loss,5.0,"888sport, SBK, SkyBet, William Hill",-1.0,5.0,"Betway, Coral, Ladbrokes, SportingIndex, SpreadEx",-1.0,0.0,<5%
+2026-08-21,Real Sociedad vs Real Betis,La Liga,Cards,Player shown a card - Orri Oskarsson,Loss,5.0,"888sport, SBK, William Hill",-1.0,5.0,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-08-21,Arsenal Vs Coventry,Premier League,Other,Over 0.5 headed shots on target - Kai Havertz,Loss,3.75,Bet365,-1.0,3.5,"888sport, William Hill",-1.0,7.1,5–10%
+2026-08-22,Hull Vs Man Utd,Premier League,Anytime goalscorer,Anytime goalscorer - Patrick Dorgu,Loss,4.33,Bet365,-1.0,4.2,SBK,-1.0,3.1,<5%
+2026-08-22,Millwall vs Norwich,Championship,Method of goal,Method of 1st goal - Header,Loss,6.5,Bet365,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-08-22,Lincoln Vs Portsmouth,Championship,Method of goal,Method of 1st goal - Header,Loss,6.5,Bet365,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-08-22,Everton Vs Crystal Palace,Premier League,Other,Anytime assist - Adam Wharton,Loss,9.0,"Coral, Ladbrokes",-1.0,7.0,"888sport, William Hill",-1.0,28.6,20–30%
+2026-08-22,Ipswich Vs Sunderland,Premier League,Cards,Player shown a card - Daizen Maeda,Loss,7.5,10bet,-1.0,6.25,"AKBets, BresBet, PricedUp, StarSports",-1.0,20.0,10–20%
+2026-08-22,Ipswich Vs Sunderland,Premier League,Cards,Player shown a card - Emersonn Silva,Loss,8.0,Bet365,-1.0,8.0,Exchanges,-1.0,0.0,<5%
+2026-08-22,Everton Vs Crystal Palace,Premier League,Cards,Player shown a card - Tyrique George,Loss,6.0,Bet365,-1.0,5.4,SBK,-1.0,11.1,10–20%
+2026-08-22,Derby Vs Cardiff,Championship,Other,Anytime assist - Ronan Kpakio,Win,11.0,Betfred,10.0,12.0,"Coral, Ladbrokes",11.0,-8.3,<5%
+2026-08-22,Nottingham Forest Vs Leeds,Premier League,Other,Over 1.5 shots on target - Morgan Gibbs-White,Loss,4.6,"BetMGM, Unibet",-1.0,4.5,Betfair Exchange,-1.0,2.2,<5%
+2026-08-22,Nottingham Forest Vs Leeds,Premier League,Other,Over 0.5 shots on target - James Justin,Loss,5.5,"Bet365, SBK",-1.0,4.8,"Coral, Ladbrokes",-1.0,14.6,10–20%
+2026-08-22,Brentford vs Tottenham,Premier League,Method of goal,Method of first goal - header,Loss,6.5,Betway,-1.0,6.0,"365, 888, Hills",-1.0,8.3,5–10%
+2026-08-22,Brentford vs Tottenham,Premier League,Cards,Player shown a card - Vitaly Janelt,Win,4.6,SBK*,3.6,4.4,Ladbrokes/Coral,3.4,4.5,<5%
+2026-08-22,Parma Vs Cagliari,Serie A,Cards,Player shown a card - Adam Obert,Loss,5.5,"10bet, BetMGM, Coral, Ladbrokes",-1.0,5.0,"888sport, William Hill",-1.0,10.0,10–20%
+2026-08-22,Espanyol Vs Real Madrid,La Liga,Cards,Player shown a card - Bernardo Silva,Loss,5.0,"10bet, BetMGM",-1.0,4.5,SBK,-1.0,11.1,10–20%
+2026-08-23,Man City vs Bournemouth,Premier League,Cards,Player shown a card - Justin Kluivert,Loss,5.0,"PaddyPower*, Skybet*",-1.0,4.33,"Bet365*, Boylesports*",-1.0,15.5,10–20%
+2026-08-23,Man City vs Bournemouth,Premier League,Other,Player 1+ shot on target - Rayan,Win,2.1,Ladbrokes/Coral,1.1,2.0,Bet365*,1.0,5.0,5–10%
+2026-08-23,Man City vs Bournemouth,Premier League,Other,Player 2+ shots on target - Nico O'Reilly,Loss,8.0,"PricedUp, StarSports",-1.0,7.0,"10bet, VirginBet",-1.0,14.3,10–20%
+2026-08-23,Brighton vs Aston Villa,Premier League,Other,Player 2+ shot on target - Maxim De Cuyper,Loss,10.0,Bet365*,-1.0,8.0,Boylesports*,-1.0,25.0,20–30%
+2026-08-23,Venezia Vs Lecce,Serie A,Cards,Red card in match - Yes,Loss,4.9,VirginBet,-1.0,4.8,"Coral, Ladbrokes",-1.0,2.1,<5%
+2026-08-23,Rennes Vs PSG,Ligue 1,Cards,Player shown a card - Przemyslaw Frankowski,Loss,6.0,Bet365,-1.0,6.0,"Betway, Coral, Ladbrokes",-1.0,0.0,<5%
+2026-08-24,Bologna Vs Lazio,Serie A,Cards,Player shown a card - Kenneth Taylor,Loss,4.8,"888sport, William Hill",-1.0,5.0,"10bet, BetMGM",-1.0,-4.0,<5%
+2026-08-24,Fulham Vs Chelsea,Premier League,Other,Over 1.5 shots on target - Morgan Rogers,Loss,5.1,SBK,-1.0,5.5,Unibet,-1.0,-7.3,<5%
+2026-08-24,Fulham Vs Chelsea,Premier League,Other,Asian handicap - Chelsea -1.5,Loss,4.09,Exchanges,-1.0,4.0,Exchanges,-1.0,2.2,<5%
+2026-08-25,Ipswich Vs Leicester,Other,Other,First half handicap - Ipswich -1,Loss,4.75,Boylesports,-1.0,4.5,"Bet365, BetGoodwin, BetTom, Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.6,5–10%
+2026-08-25,Bodo/Glimt Vs NEC Nijmegen,Other,Anytime goalscorer,Both Teams to Score - No,Win,2.98,Exchanges,1.98,2.9,Exchanges,1.9,2.8,<5%
+2026-08-26,Tottenham Vs Charlton,Other,Cards,Most cards - Tottenham,Loss,5.25,Unibet,-1.0,5.0,"Bet365, Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.0,5–10%
+2026-08-26,Preston Vs Everton,Other,Cards,Player shown a card - Andrew Moran,Loss,6.0,Bet365,-1.0,5.1,SBK,-1.0,17.6,10–20%
+2026-08-26,AEK Athens vs Levski Sofia,Other,Other,Levski Sofia 1x2,Loss,8.2,Exchanges,-1.0,8.0,Exchanges,-1.0,2.5,<5%
+2026-08-27,Jablonec vs Rangers,Other,Cards,Player shown a card - Daniel Neil,Loss,5.0,BetMGM,-1.0,4.8,"888sport, William Hill",-1.0,4.2,<5%
+2026-08-27,Austria Wien vs Braga,Other,Other,Over 2.5 match goals,Loss,2.1,"Exchanges, Generally",-1.0,2.0,,-1.0,5.0,5–10%
+2026-08-27,St Gallen vs Nordsjaelland,Other,Anytime goalscorer,Both teams to score - No,Loss,3.2,SkyBet,-1.0,3.0,"AKBets, BetVictor, Betfair Sportsbook, Betfred, Boylesports, BresBet, PaddyPower, QuinnBet, Unibet",-1.0,6.7,5–10%
+2026-08-27,Freiburg Vs Motherwell,Other,Anytime goalscorer,Anytime goalscorer - Mathias Ginter,Loss,7.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,6.5,Bet365,-1.0,7.7,5–10%
+2026-08-28,Crystal Palace vs Man City,Premier League,Other,Shot on target from outside the box - Marc Guehi,Loss,21.0,SBK,-1.0,17.0,"888sport, William Hill",-1.0,23.5,20–30%
+2026-08-28,Crystal Palace vs Man City,Premier League,Cards,Player shown a card - Marc Guehi,Loss,6.5,"Bet365, Betfair Sportsbook, PaddyPower, SkyBet",-1.0,6.0,BoyleSports,-1.0,8.3,5–10%
+2026-08-28,Crystal Palace vs Man City,Premier League,Other,Anytime assist - Adam Wharton,Loss,8.5,Bet365,-1.0,8.0,"Coral, Ladbrokes",-1.0,6.2,5–10%
+2026-08-28,Crystal Palace vs Man City,Premier League,Cards,Player shown a card - Daichi Kamada,Loss,6.5,Bet365,-1.0,6.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,8.3,5–10%
+2026-08-28,Wrexham Vs Birmingham,Championship,Method of goal,Method of 1st goal - Header,Win,6.5,"888sport, Bet365, William Hill",5.5,,,,,No MGP
+2026-08-28,Wrexham Vs Birmingham,Championship,Cards,Player shown a card - Ben Whiteman,Loss,5.5,Bet365,-1.0,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,10.0,10–20%
+2026-08-29,Union Berlin Vs Frankfurt,Bundesliga,Anytime goalscorer,Anytime goalscorer - Zeno van den Bosch,Loss,17.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,15.5,SBK,-1.0,9.7,5–10%
+2026-08-29,Union Berlin Vs Frankfurt,Bundesliga,Method of goal,Method of 1st goal - Header,Win,6.5,Betway,5.5,6.0,"888sport, Bet365, William Hill",5.0,8.3,5–10%
+2026-08-29,Coventry Vs Hull,Premier League,Method of goal,Method of 1st goal - Header,Loss,6.5,"Bet365, Betway",-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-08-29,Mainz Vs Paderborn,Bundesliga,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, Bet365, William Hill",-1.0,8.3,5–10%
+2026-08-29,Bournemouth Vs Everton,Premier League,Cards,Player shown a card - Justin Kluivert,Loss,6.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.5,Bet365,-1.0,18.2,10–20%
+2026-08-29,Blackburn Vs QPR,Championship,Cards,Player shown a card - Adam Forshaw,Win,6.0,Bet365,5.0,5.0,,4.0,20.0,10–20%
+2026-08-29,Bristol City vs Portsmouth,Championship,Cards,Player shown a card - Marlon Pack,Loss,4.2,"Coral, Ladbrokes",-1.0,3.95,10bet,-1.0,6.3,5–10%
+2026-08-29,RB Leipzig vs Gladbach,Bundesliga,Cards,Player shown a card - Rocco Reitz,Loss,7.5,Bet365,-1.0,5.8,William Hill,-1.0,29.3,20–30%
+2026-08-29,Ayr Vs Morton,Other,Other,Asian handicap - Ayr -2.5,Loss,6.1,Exchanges,-1.0,,,,,No MGP
+2026-08-29,Norwich Vs Burnley,Championship,Cards,Player shown a card - Pelle Matsson,Loss,5.0,"888sport, PaddyPower, SkyBet, William Hill",-1.0,5.5,"10bet, BetMGM",-1.0,-9.1,<5%
+2026-08-29,Bolton vs Lincoln,Championship,Cards,Player shown a card - Callum Elder,Loss,6.0,"10bet, MGM",-1.0,5.8,William Hill,-1.0,3.4,<5%
+2026-08-29,Hearts Vs St Johnstone,SPFL,Anytime goalscorer,Anytime goalscorer - Tomas Magnusson,Loss,5.75,"AKBets, PricedUp, StarSports",-1.0,4.8,"888sport, Bet365, SBK, William Hill",-1.0,19.8,10–20%
+2026-08-29,Levante Vs Betis,La Liga,Cards,Player shown a card - Manuel Sanchez,Loss,4.75,Bet365,-1.0,4.5,SkyBet,-1.0,5.6,5–10%
+2026-08-29,Tottenham Vs Newcastle,Premier League,Cards,Player shown a card - Micky van de Ven,Win,5.25,"Coral, Ladbrokes",4.25,4.8,"888sport, William Hill",3.8,9.4,5–10%
+2026-08-29,Sevilla Vs Atletico,La Liga,Other,Over 1.5 shots - Julio Diaz,Loss,6.5,"888sport, William Hill",-1.0,6.0,BetVictor,-1.0,8.3,5–10%
+2026-08-30,Aberdeen vs Rangers,SPFL,Cards,Player shown a card - Dan Neil,Loss,6.5,"10bet, MGM",-1.0,6.0,365,-1.0,8.3,5–10%
+2026-08-30,Chelsea vs Brighton,Premier League,Anytime goalscorer,Anytime goalscorer - Maxim De Cuyper,Loss,7.0,"Boylesports*, PaddyPower*, Skybet*",-1.0,7.5,"AKBets, PricedUp, Star Sports",-1.0,-6.7,<5%
+2026-08-30,Chelsea vs Brighton,Premier League,Other,Shot on target from outside the area - Max Wieffer,Loss,15.0,"888sport, Bet365, William Hill",-1.0,9.4,SBK,-1.0,59.6,30%+
+2026-08-30,Leeds Vs Brentford,Premier League,Method of goal,Method of 1st goal - Header,Loss,6.5,"Bet365, Betway",-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-08-30,Sunderland vs Fulham,Premier League,Cards,Player shown a card - Noah Sadiki,Loss,5.0,"Skybet*, William Hill*",-1.0,5.5,"10bet, MGM",-1.0,-9.1,<5%
+2026-08-30,Dundee Vs Hibs,SPFL,Other,Over 0.5 shots on target - Felix Passlack,Loss,3.75,Bet365,-1.0,,,,,No MGP
+2026-08-30,Man Utd vs Ipswich,Premier League,Cards,Player shown a card - Daizen Maeda,Loss,6.0,"10bet, BetMgm",-1.0,5.5,"AKBets, PricedUp, StarSports",-1.0,9.1,5–10%
+2026-08-31,Atalanta Vs Bologna,Serie A,Cards,Player shown a card - Lewis Ferguson,Loss,5.5,Bet365,-1.0,4.9,SBK,-1.0,12.2,10–20%
+2026-08-31,Aston Villa vs Arsenal,Premier League,Other,Headed shot on target - Kai Havertz,Loss,3.75,"888sport, Bet365, William Hill",-1.0,,,,,No MGP
+2026-09-01,Preston Vs Bristol City,Championship,Cards,Player shown a card - Harrison Clarke,Loss,4.33,"Coral, Ladbrokes",-1.0,3.8,888sport,-1.0,13.9,10–20%
+2026-09-01,Doncaster Vs Notts County,Other,Anytime goalscorer,Anytime goalscorer - Owen Bailey,Loss,5.0,Bet365,-1.0,4.5,"AKBets, PricedUp, SBK, StarSports",-1.0,11.1,10–20%
+2026-09-01,West Ham Vs Wolves,Championship,Cards,Player shown a card - Raul Jimenez,Win,6.0,"888, William Hill",5.0,6.0,"Coral, Ladbrokes",5.0,0.0,<5%
+2026-09-01,Preston Vs Bristol City,Championship,Cards,Player shown a card - Sam Greenwood,Loss,5.5,SkyBet,-1.0,4.8,"888sport, William Hill",-1.0,14.6,10–20%
+2026-09-01,Lincoln Vs Blackburn,Championship,Method of goal,Method of 1st goal - Header,Loss,6.5,Bet365,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-01,Birmingham Vs Southampton,Championship,Method of goal,Method of 1st goal - Header,Win,6.0,"888sport, Bet365, William Hill",5.0,,,,,No MGP
+2026-09-01,Birmingham Vs Southampton,Championship,Cards,Player shown a card - Tomoki Iwata,Loss,5.0,SkyBet,-1.0,4.8,SBK,-1.0,4.2,<5%
+2026-09-02,Millwall Vs Wrexham,Championship,Method of goal,Method of 1st goal - Header,Loss,6.5,Bet365,-1.0,6.0,,-1.0,8.3,5–10%
+2026-09-02,Falkirk Vs Rangers,SPFL,Other,Over 0.5 shots on target - James Penrice,Loss,4.0,BoyleSports,-1.0,3.75,Bet365,-1.0,6.7,5–10%
+2026-09-02,Wigan vs MK Dons,Other,Method of goal,Method of first goal - header,Loss,6.0,"365, 888, Hills",-1.0,,,,,No MGP
+2026-09-03,Hibs Vs Hearts,SPFL,Cards,Player shown a card - Josh Mulligan,Loss,3.25,"888sport, William Hill",-1.0,3.1,Bet365,-1.0,4.8,<5%
+2026-09-03,Hibs Vs Hearts,SPFL,Anytime goalscorer,Anytime goalscorer - Felix Passlack,Loss,11.0,"SBK, SkyBet",-1.0,9.5,BetFred,-1.0,15.8,10–20%
+2026-09-03,Hibs Vs Hearts,SPFL,Other,Over 2.5 fouls - Nathan Lowe,Loss,5.5,SkyBet,-1.0,5.0,Bet365,-1.0,10.0,10–20%
+2026-09-03,Toulouse vs Lille,Ligue 1,Other,Over 1.5 shots - Christ Tape,Loss,7.0,Unibet,-1.0,4.8,Coral,-1.0,45.8,30%+
+2026-09-04,Lyon Vs Auxerre,Ligue 1,Other,Over 1.5 shots on target - Remy Labeau-Lascary,Loss,9.0,Bet365,-1.0,6.5,"MGM, Victor",-1.0,38.5,30%+
+2026-09-04,Ipswich vs Liverpool,Premier League,Cards,Player shown a card - Daizen Maeda,Loss,5.5,"888sport, William Hill",-1.0,5.7,SBK,-1.0,-3.5,<5%
+2026-09-04,Real Betis vs Real Madrid,La Liga,Cards,Player shown a card - Marc Cucurella,Loss,4.0,Bet365,-1.0,3.9,"888, Hills",-1.0,2.6,<5%
+2026-09-05,Lincoln vs Southampton,Championship,Method of goal,Method of first goal - header,Loss,6.0,"365, 888, William Hill",-1.0,,,,,No MGP
+2026-09-05,Preston vs Blackburn,Championship,Method of goal,Method of first goal - header,Loss,6.5,365,-1.0,6.0,"888, William Hill",-1.0,8.3,5–10%
+2026-09-05,Blackburn Vs Preston,Championship,Cards,Player shown a card - Adam Forshaw,Loss,4.75,"888, William Hill",-1.0,4.33,Bet365,-1.0,9.7,5–10%
+2026-09-05,Wigan vs Stockport,Other,Method of goal,Method of first goal - header,Loss,6.0,"365, 888, William Hill",-1.0,,,,,No MGP
+2026-09-05,Fulham Vs Crystal Palace,Premier League,Anytime goalscorer,Anytime goalscorer - Eddie Nketiah,Loss,5.4,Betfair Exchange,-1.0,4.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,35.0,30%+
+2026-09-05,Fulham Vs Crystal Palace,Premier League,Other,Anytime assist - Adam Wharton,Loss,8.5,BoyleSports,-1.0,7.5,Bet365,-1.0,13.3,10–20%
+2026-09-05,Rangers Vs Motherwell,SPFL,Corners,Motherwell over 0.5 goals and 4.5 corners,Loss,5.5,Bet365,-1.0,,,,,No MGP
+2026-09-05,Rangers Vs Motherwell,SPFL,Corners,Motherwell over 1.5 goals and 5.5 corners,Loss,21.0,Bet365,-1.0,19.0,"888sport, William Hill",-1.0,10.5,10–20%
+2026-09-05,Rangers Vs Motherwell,SPFL,Other,Anytime assist - Alex Lowry,Loss,7.5,Bet365,-1.0,,,,,No MGP
+2026-09-05,Brighton Vs Leeds,Premier League,Other,Over 1.5 shots on target - Maxim de Cuyper,Loss,6.0,Boylesports,-1.0,,,,,No MGP
+2026-09-05,Brentford Vs Sunderland,Premier League,Method of goal,Method of 1st goal - Header,Loss,6.5,,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-05,St Mirren vs Celtic,SPFL,Cards,Player shown a card - Ryan Carr,Loss,4.5,Betfair Exchange,-1.0,3.75,Bet365,-1.0,20.0,10–20%
+2026-09-06,Hamburg vs Mainz,Bundesliga,Method of goal,Method of 1st goal - Header,Loss,6.5,"Bet365, Betway",-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-06,Arsenal vs Chelsea,Premier League,Anytime goalscorer,Anytime goalscorer - Cole Palmer,Loss,4.6,"Betfair Exchange, Coral, Ladbrokes, SBK",-1.0,,,,,No MGP
+2026-09-06,Alaves vs Osasuna,La Liga,Method of goal,Method of 1st goal - Header,Loss,6.5,,-1.0,,,,,No MGP
+2026-09-07,Getafe vs Celta Vigo,La Liga,Anytime goalscorer,Anytime goalscorer - Iago Aspas,Loss,5.0,Bet365,-1.0,4.75,"888sport, William Hill",-1.0,5.3,5–10%
+2026-09-07,Bromley vs Wimbledon,Other,Cards,Player shown a card - Steve Seddon,Loss,6.0,Bet365,-1.0,5.0,"MGM, William Hill",-1.0,20.0,10–20%
+2026-09-07,Bromley vs Wimbledon,Other,Method of goal,Method of 1st goal - Header,Win,6.5,Bet365,5.5,6.0,"888sport, William Hill",5.0,8.3,5–10%
+2026-09-08,Club Brugge vs Aston Villa,Other,Other,Over 5.5 goalkeeper saves - Aston Villa,Loss,9.0,Bet365,-1.0,8.5,"Betfair Sportsbook, PaddyPower",-1.0,5.9,5–10%
+2026-09-08,Southampton vs Swansea,Championship,Method of goal,Method of 1st goal - Header,Loss,6.0,"888sport, Bet365, William Hill",-1.0,,,,,No MGP
+2026-09-08,Porto vs Man City,Other,Other,Over 1.5 shots on target - Enzo Fernandez,Loss,8.0,Boylesports,-1.0,9.0,"Coral, Ladbrokes",-1.0,-11.1,<5%
+2026-09-08,Real Madrid vs Inter Milan,Other,Anytime goalscorer,Anytime goalscorer - Denzel Dumfries,Loss,9.0,Betfred,-1.0,10.0,"Coral, Ladbrokes",-1.0,-10.0,<5%
+2026-09-08,Lille vs Real Betis,Other,Anytime goalscorer,Anytime goalscorer - Ethan Mbappe,Loss,6.0,Skybet,-1.0,5.5,"Betfair Sportsbook, PaddyPower",-1.0,9.1,5–10%
+2026-09-08,Dortmund vs Villarreal,Other,Cards,Player shown a card - Joey Veerman,Loss,7.0,Bet365,-1.0,6.0,"Betfair Sportsbook, PaddyPower",-1.0,16.7,10–20%
+2026-09-08,Lille vs Real Betis,Other,Cards,Player shown a card - Romain Perraud,Loss,4.5,"10bet, BetMGM",-1.0,4.0,"Coral, Ladbrokes",-1.0,12.5,10–20%
+2026-09-09,Chelsea vs Leeds,Premier League,Cards,Player shown a card - Levi Colwill,Loss,5.8,"888sport, William Hill",-1.0,5.5,SkyBet,-1.0,5.5,5–10%
+2026-09-09,St Johnstone vs Celtic,SPFL,Other,Anytime assist - Liam Scales,Loss,11.0,"Betway, BoyleSports, SBK",-1.0,12.0,"Coral, Ladbrokes",-1.0,-8.3,<5%
+2026-09-09,Liverpool vs Atletico Madrid,Other,Cards,Player shown a card - Dominik Szoboszlai,Loss,6.5,Bet365,-1.0,5.8,SBK,-1.0,12.1,10–20%
+2026-09-09,Napoli vs Arsenal,Other,Anytime goalscorer,Anytime goalscorer - Kevin de Bruyne,Loss,7.8,Betfair Exchange,-1.0,6.0,"Betfair Sportsbook, BoyleSports, PaddyPower, SkyBet",-1.0,30.0,30%+
+2026-09-10,Fenerbahce vs Roma,Other,Cards,Player shown a card - Milan Skriniar,Loss,4.75,Bet365,-1.0,3.95,10bet,-1.0,20.3,20–30%
+2026-09-10,Slavia Prague vs RC Lens,Other,Cards,Player shown a card - Andrija Bulatovic,Loss,5.0,MGM,-1.0,4.44,SBK,-1.0,12.6,10–20%
+2026-09-10,Como vs Leipzig,Other,Cards,Player shown a card - Jacopo Ramon,Loss,4.75,Bet365,-1.0,4.1,"MGM, VirginBet",-1.0,15.9,10–20%
+2026-09-10,Slavia Prague vs RC Lens,Other,Cards,Player shown a card - Stepan Chaloupek,Loss,6.2,SBK,-1.0,5.5,"Betfair, PaddyPower",-1.0,12.7,10–20%
+2026-09-11,Union Berlin vs Schalke,Bundesliga,Method of goal,Method of 1st goal - Header,Loss,6.5,"Bet365, Betway",-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-11,West Ham vs Wrexham,Championship,Method of goal,Method of 1st goal - Header,Loss,6.0,"888sport, Bet365, William Hill",-1.0,,,,,No MGP
+2026-09-11,Sevilla vs Valencia,La Liga,Other,Over 0.5 shots on target - Youssuf Fofana,Win,3.8,BoyleSports,2.8,4.0,"Coral, Ladbrokes",3.0,-5.0,<5%
+2026-09-11,Sevilla vs Valencia,La Liga,Other,Over 1.5 shots on target - Youssuf Fofana,Loss,19.0,BoyleSports,-1.0,21.0,"Coral, Ladbrokes",-1.0,-9.5,<5%
+2026-09-12,Bolton Vs Cardiff,Championship,Cards,Player shown a card - Joel Colwill,Win,6.5,"PaddyPower, SkyBet",5.5,6.5,Betfair Sportsbook,5.5,0.0,<5%
+2026-09-12,Racing Santander Vs Alaves,La Liga,Cards,Player shown a card - Abde Rebbach,Loss,5.0,SkyBet,-1.0,4.0,Bet365,-1.0,25.0,20–30%
+2026-09-12,Genoa vs Frosinone,Serie A,Other,Over 1.5 fouls - Giacomo Calo,Loss,3.4,"Coral, Ladbrokes",-1.0,2.75,Bet365,-1.0,23.6,20–30%
+2026-09-12,Freiburg vs Borussia Monchengladbach,Bundesliga,Anytime goalscorer,Anytime goalscorer - Kevin Diks,Loss,8.5,Bet365,-1.0,8.0,QuinnBet,-1.0,6.2,5–10%
+2026-09-12,Hoffenheim vs Stuttgart,Bundesliga,Other,Player Fouls Committed Over 1.5 - Tim Lemperle,Win,2.55,QuinnBet,1.55,2.45,Ladbrokes/Coral,1.45,4.1,<5%
+2026-09-12,Mainz vs Frankfurt,Bundesliga,Method of goal,Method of First Goal - Header,Loss,6.5,Betway,-1.0,6.0,"365, 888, William Hill",-1.0,8.3,5–10%
+2026-09-12,Augsburg vs Leverkusen,Bundesliga,Cards,Player shown a card - Noahkai Banks,Win,4.33,Bet365,3.33,3.75,"Betfair Sportsbook, PaddyPower, SkyBet",2.75,15.5,10–20%
+2026-09-12,Palace vs Ipswich,Premier League,Cards,Player shown a card - Quinten Timber,Loss,5.5,"MGM, PaddyPower, Skybet",-1.0,5.5,10bet,-1.0,0.0,<5%
+2026-09-12,Bournemouth vs Brentford,Premier League,Method of goal,Method of first goal - Header,Win,6.5,Betway,5.5,6.0,"365, 888, William Hill",5.0,8.3,5–10%
+2026-09-12,Bournemouth vs Brentford,Premier League,Cards,Player shown a card - Vitaly Janelt,Loss,4.2,MGM,-1.0,3.9,Coral/Ladbrokes,-1.0,7.7,5–10%
+2026-09-12,Bournemouth vs Brentford,Premier League,Cards,Player shown a card - Marcus Tavernier,Win,6.0,"Bet365, Skybet",5.0,6.0,"Betway, Coral, Ladbrokes",5.0,0.0,<5%
+2026-09-12,Chelsea vs Hull,Premier League,Cards,Player shown a card - John Egan,Win,6.0,Skybet,5.0,5.5,"PaddyPower, SBK",4.5,9.1,5–10%
+2026-09-12,Preston vs Lincoln,Championship,Cards,Player shown a card - Harry Clarke,Win,5.0,"Betway, Coral, Ladbrokes",4.0,4.4,"888sport, William Hill",3.4,13.6,10–20%
+2026-09-12,Tottenham vs Everton,Premier League,Cards,Player shown a card - Mickey van de Ven,Loss,5.0,"Betway, Coral, Ladbrokes",-1.0,4.75,Bet365,-1.0,5.3,5–10%
+2026-09-12,Tottenham vs Everton,Premier League,Other,Anytime assist - James Garner,Loss,8.0,BoyleSports,-1.0,8.5,"Coral, Ladbrokes",-1.0,-5.9,<5%
+2026-09-13,Sheff Utd vs Wolves,Championship,Cards,Player shown a card - Adam Armstrong,Loss,7.0,"Paddy Power, Skybet, William Hill",-1.0,7.5,"10bet, MGM",-1.0,-6.7,<5%
+2026-09-13,Sheff Utd vs Wolves,Championship,Method of goal,Method of first goal - header,Loss,6.5,365,-1.0,6.0,"888, William Hill",-1.0,8.3,5–10%
+2026-09-13,Sheff Utd vs Wolves,Championship,Cards,Player shown a card - Andre Trindade,Loss,4.0,Betway,-1.0,3.9,"Coral, Ladbrokes",-1.0,2.6,<5%
+2026-09-13,Man Utd vs Man City,Premier League,Other,Over 4.5 saves - Man City (Gianluigi Donnarumma),Loss,4.5,Bet365,-1.0,4.33,"Betfair Sportsbook, PaddyPower",-1.0,3.9,<5%
+2026-09-13,Man Utd vs Man City,Premier League,Other,Over 1.5 shots - Diogo Dalot,Loss,5.0,MGM,-1.0,4.5,Boylesports,-1.0,11.1,10–20%
+2026-09-13,Man Utd vs Man City,Premier League,Other,Over 2.5 shots - Diogo Dalot,Loss,13.0,"Boylesports, MGM",-1.0,13.0,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-09-13,Man Utd vs Man City,Premier League,Other,Over 1.5 fouls - Antoine Semenyo,Win,2.62,Betway,1.62,2.8,"Coral, Ladbrokes",1.8,-6.4,<5%
+2026-09-14,Como vs Parma,Serie A,Anytime goalscorer,Anytime goalscorer - Jacopo Ramon,Win,12.0,"888sport, William Hill",11.0,11.0,BoyleSports,10.0,9.1,5–10%
+2026-09-14,Inter Milan vs Udinese,Serie A,Method of goal,Method of 1st goal - Header,Win,6.5,Betway,5.5,6.0,"888sport, Bet365",5.0,8.3,5–10%
+2026-09-14,Inter Milan vs Udinese,Serie A,Other,Over 1.5 shots on target - Henrik Mkhitaryan,Loss,5.5,SkyBet,-1.0,4.75,BoyleSports,-1.0,15.8,10–20%
+2026-09-15,Rayo vs Espanyol,La Liga,Other,Over 0.5 shots on target - Quilintschy Hartman,Loss,5.0,BetVictor,-1.0,3.25,SkyBet,-1.0,53.8,30%+
+2026-09-15,Rayo vs Espanyol,La Liga,Other,Over 1.5 shots on target - Quilintschy Hartman,Loss,17.0,Bet365,-1.0,26.0,Unibet,-1.0,-34.6,<5%
+2026-09-15,Rayo vs Espanyol,La Liga,Cards,Player shown a card - Urko Gonzalez,Loss,4.0,"SBK, SkyBet",-1.0,4.3,Betfair Exchange,-1.0,-7.0,<5%
+2026-09-15,Rayo vs Espanyol,La Liga,Anytime goalscorer,Anytime goalscorer - Roberto Fernandez,Win,3.3,Betfair Exchange,2.3,3.0,SkyBet,2.0,10.0,5–10%
+2026-09-15,Alaves vs Valencia,La Liga,Cards,Player shown a card - Denis Suarez,Loss,6.5,"888sport, William Hill",-1.0,7.0,10bet,-1.0,-7.1,<5%
+2026-09-15,Alaves vs Valencia,La Liga,Cards,Player shown a card - Abde Rebbach,Loss,5.0,Bet365,-1.0,4.8,"888sport, SBK, William Hill",-1.0,4.2,<5%
+2026-09-15,Bristol City vs Lincoln City,Championship,Cards,Player shown a card - Cameron Pring,Loss,4.6,"Coral, Ladbrokes",-1.0,4.2,"888sport, William Hill",-1.0,9.5,5–10%
+2026-09-15,Ipswich vs Arsenal,Premier League,Cards,Player shown a card - Kepa Arrizabalaga,Loss,11.0,"Coral, Ladbrokes",-1.0,9.5,Betfred,-1.0,15.8,10–20%
+2026-09-16,Deportivo vs Sevilla,La Liga,Other,Over 0.5 shots on target - Youssuf Fofana,Loss,3.35,SBK,-1.0,2.9,"888sport, William Hill",-1.0,15.5,10–20%
+2026-09-16,Deportivo vs Sevilla,La Liga,Cards,Player shown a card - Gabriel Suazo,Loss,4.5,MGM,-1.0,4.33,"888sport, William Hill",-1.0,3.9,<5%
+2026-09-16,Man Utd vs Brighton,Premier League,Anytime goalscorer,Anytime goalscorer - Charalampos Kostoulas,Win,3.5,Betfair Exchange,2.5,3.0,"Bet365, Betfair Sportsbook, PaddyPower, SkyBet",2.0,16.7,10–20%
+2026-09-16,Coventry vs Aston Villa,Premier League,Anytime goalscorer,Anytime goalscorer - Ibrahim Mbaye,Loss,3.75,SkyBet,-1.0,3.6,"Betfair Sportsbook, PaddyPower",-1.0,4.2,<5%
+2026-09-16,Olympiakos vs Jagiellonia,Other,Method of goal,Method of 1st goal - Header,Loss,6.0,"888sport, Bet365, William Hill",-1.0,,,,,No MGP
+2026-09-17,AFC Wimbledon vs MK Dons,Other,Method of goal,Method of 1st goal - Header,Loss,6.5,Bet365,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-17,Real Sociedad vs Bournemouth,Other,Cards,Player shown a card - Sergio Gomez,Loss,7.0,"10bet, MGM",-1.0,6.0,"888sport, William Hill",-1.0,16.7,10–20%
+2026-09-17,Crystal Palace vs Lech Poznan,Other,Anytime goalscorer,Anytime goalscorer - Tyrick Mitchell,Loss,8.4,SBK,-1.0,,,,,No MGP
+2026-09-17,Viktoria Plzen vs Union Saint-Gilloise,Other,Cards,Player shown a card - Prince Adu,Loss,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,4.4,SBK,-1.0,13.6,10–20%
+2026-09-17,Real Sociedad vs Bournemouth,Other,Cards,Player shown a card - Justin Kluivert,Win,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",4.0,5.2,Betfair Exchange,4.2,-3.8,<5%
+2026-09-17,Celtic vs Ferencvaros,Other,Anytime goalscorer,Anytime goalscorer - Kristoffer Zachariessen,Win,5.5,Bet365,4.5,4.9,SBK,3.9,12.2,10–20%
+2026-09-17,Malaga vs Villarreal,La Liga,Anytime goalscorer,Anytime goalscorer - Ayoze Perez,Loss,2.8,"888sport, William Hill",-1.0,3.0,"Betfair Exchange, Coral, Ladbrokes, MGM",-1.0,-6.7,<5%
+2026-09-18,Brentford vs Chelsea,Premier League,Method of goal,Method of 1st goal - Header,Win,6.5,Betway,5.5,6.0,"888sport, Bet365, William Hill",5.0,8.3,5–10%
+2026-09-18,Brentford vs Chelsea,Premier League,Cards,Player shown a card - Cole Palmer,Loss,5.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.75,"Coral, Ladbrokes",-1.0,-4.3,<5%
+2026-09-18,Brentford vs Chelsea,Premier League,Other,Over 1.5 fouls - Danny Welbeck,Loss,3.75,"Bet365, SBK",-1.0,4.1,BetVictor,-1.0,-8.5,<5%
+2026-09-18,Bristol City vs Watford,Championship,Cards,Player shown a card - Noah Eile,Loss,7.0,Bet365,-1.0,7.0,SBK,-1.0,0.0,<5%
+2026-09-18,Espanyol vs Elche,La Liga,Anytime goalscorer,Anytime goalscorer - Fernando(Fer) Nino,Win,3.75,SkyBet,2.75,3.6,SBK,2.6,4.2,<5%
+2026-09-19,Tottenham vs Aston Villa,Premier League,Cards,Player shown a card - Micky van de Ven,Loss,4.8,"Coral, Ladbrokes",-1.0,4.5,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,6.7,5–10%
+2026-09-19,Millwall vs West Ham,Championship,Method of goal,Method of 1st goal - Header,Loss,6.0,"888sport, William Hill, bet365",-1.0,,,,,No MGP
+2026-09-19,Rochdale vs Oldham,Other,Method of goal,Method of 1st goal - Header,Loss,6.5,bet365,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-19,Stoke vs Sheffield United,Championship,Anytime goalscorer,Anytime goalscorer - Patrick Bamford,Loss,3.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,3.25,"AKbets, PricedUp, StarSports",-1.0,7.7,5–10%
+2026-09-19,Osasuna vs Rayo Vallecano,La Liga,Anytime goalscorer,Anytime goalscorer - Enrique (Kike) Barja,Loss,6.0,"Bet365, SkyBet",-1.0,5.8,SBK,-1.0,3.4,<5%
+2026-09-19,Borussia Monchengladach vs Mainz,Bundesliga,Other,Over 1.5 fouls committed - Anthony Caci,Loss,4.33,"Coral, Ladbrokes",-1.0,3.4,Betfred,-1.0,27.4,20–30%
+2026-09-19,Borussia Monchengladach vs Mainz,Bundesliga,Cards,Player shown a card - Kevin Diks,Loss,4.8,"Coral, Ladbrokes",-1.0,4.33,"10bet, 365, MGM, SBK",-1.0,10.9,10–20%
+2026-09-19,QPR vs Preston,Championship,Cards,Player shown a card - Harry Clarke,Win,4.33,"Coral, Ladbrokes",3.33,4.2,Betway,3.2,3.1,<5%
+2026-09-19,Newcastle vs Hull,Premier League,Cards,Player shown a card - John Egan,Loss,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,4.5,BoyleSports,-1.0,11.1,10–20%
+2026-09-19,Portsmouth vs Blackburn,Championship,Cards,Player shown a card - Sean McLoughlin,Loss,4.8,William Hill,-1.0,5.0,"10bet, Coral, Ladbrokes, MGM",-1.0,-4.0,<5%
+2026-09-19,Newcastle vs Hull,Premier League,Cards,Player shown a card - Ryan Giles,Win,6.5,10bet,5.5,5.8,"888sport, William Hill",4.8,12.1,10–20%
+2026-09-19,Newcastle vs Hull,Premier League,Cards,Player shown a card - Lewie Coyle,Loss,4.0,SBK,-1.0,3.9,"888sport, William Hill",-1.0,2.6,<5%
+2026-09-19,Everton vs Ipswich,Premier League,Cards,Player shown a card - James Garner,Loss,4.4,"888sport, Betway, William Hill",-1.0,4.5,"10bet, Coral, Ladbrokes",-1.0,-2.2,<5%
+2026-09-19,Lincoln vs Swansea,Championship,Cards,Player shown a card - Freddie Draper,Loss,4.6,William Hill,-1.0,5.0,"10bet, MGM",-1.0,-8.0,<5%
+2026-09-19,Brighton vs Arsenal,Premier League,Anytime goalscorer,Anytime goalscorer - Bukayo Saka,Loss,3.25,SkyBet,-1.0,3.0,Bet365,-1.0,8.3,5–10%
+2026-09-19,Burnley vs Derby,Championship,Cards,Player shown a card - Reo Hatate,Win,7.5,William Hill,6.5,8.0,"10bet, MGM",7.0,-6.2,<5%
+2026-09-19,Brighton vs Arsenal,Premier League,Anytime goalscorer,Anytime goalscorer - Pascal Gross,Win,10.0,SkyBet,9.0,9.0,Betfred,8.0,11.1,10–20%
+2026-09-19,Wrexham vs Southampton,Championship,Cards,Player shown a card - James Bree,Loss,7.5,365,-1.0,6.5,"Coral, Ladbrokes",-1.0,15.4,10–20%
+2026-09-19,Toulouse vs Le Havre,Ligue 1,Anytime goalscorer,Anytime goalscorer - Christ Tapé,Loss,19.0,SkyBet,-1.0,15.0,"888sport, William Hill",-1.0,26.7,20–30%
+2026-09-19,Sevilla vs Barcelona,La Liga,Anytime goalscorer,Anytime goalscorer - Robbie Ure,Loss,3.5,SkyBet,-1.0,3.1,BetFred,-1.0,12.9,10–20%
+2026-09-20,Celtic vs Rangers,SPFL,Anytime goalscorer,Anytime goalscorer - Nicolas Raskin,Loss,9.0,William Hill,-1.0,8.5,"PaddyPower, Skybet",-1.0,5.9,5–10%
+2026-09-20,Norwich vs Bolton,Championship,Cards,Player shown a card - Ben Davies,Loss,6.0,365,-1.0,5.5,"PaddyPower, Skybet",-1.0,9.1,5–10%
+2026-09-20,Bournemouth vs Liverpool,Premier League,Cards,Player shown a card - Marcus Tavernier,Loss,6.0,"365, SkyBet",-1.0,5.5,"Betfair Sportsbook, PaddyPower",-1.0,9.1,5–10%
+2026-09-20,Bournemouth vs Liverpool,Premier League,Cards,Player shown a card - Dominik Szoboszlai,Win,5.5,365,4.5,5.0,"888sport, William Hill",4.0,10.0,10–20%
+2026-09-20,Bournemouth vs Liverpool,Premier League,Cards,Player shown a card - Ryan Christie,Loss,4.8,"888sport, William Hill",-1.0,5.0,10bet,-1.0,-4.0,<5%
+2026-09-20,Atletico Madrid vs Real Madrid,La Liga,Anytime goalscorer,Anytime goalscorer - Alejandro Grimaldo,Win,8.5,SkyBet,7.5,8.5,"Betfair Sportsbook, PaddyPower",7.5,0.0,<5%
+2026-09-20,Nice vs Lille,Ligue 1,Anytime goalscorer,Anytime goalscorer - Ayase Ueda,Win,2.5,SkyBet,1.5,2.45,"888sport, SBK, William Hill",1.45,2.0,<5%
+2026-09-20,Schalke vs Elversberg,Bundesliga,Anytime goalscorer,Anytime goalscorer - David Mokwa,Loss,3.25,SkyBet,-1.0,3.0,"Bet365, SBK",-1.0,8.3,5–10%
+2026-09-20,Villarreal vs Levante,La Liga,Anytime goalscorer,Anytime goalscorer - Ayoze Perez,Win,2.38,BoyleSports,1.38,2.2,"SkyBet, William Hill",1.2,8.2,5–10%
+2026-09-20,Marseille Vs PSG,Ligue 1,Anytime goalscorer,Anytime goalscorer - Amine Gouiri,Loss,3.5,SkyBet,-1.0,3.4,"888sport, Bet365, William Hill",-1.0,2.9,<5%
+2026-09-20,Marseille Vs PSG,Ligue 1,Anytime goalscorer,Anytime goalscorer - Nuno Mendes,Loss,8.0,"888sport, William Hill",-1.0,7.5,"10bet, BetMGM",-1.0,6.7,5–10%
+2026-09-20,AC Milan vs Lecce,Serie A,Other,Over 0.5 shots on target - Lassana Coulibaly,Loss,5.5,"888sport, William Hill",-1.0,4.75,BetVictor,-1.0,15.8,10–20%
+2026-09-20,Valencia vs Real Sociedad,La Liga,Anytime goalscorer,Anytime goalscorer - Mikel Oyarzabal,Loss,3.25,SkyBet,-1.0,3.25,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-09-24,Netherlands vs Germany,International,Other,Netherlands 1x2,Loss,2.8,Exchanges,-1.0,2.7,,-1.0,3.7,<5%
+2026-09-24,Portugal vs Wales,International,Anytime goalscorer,Both teams to score - No,Win,1.83,Exchanges,0.83,1.8,,0.8,1.7,<5%
+2026-09-24,Netherlands vs Germany,International,Cards,Player shown a card - Micky van de Ven,Loss,6.0,Bet365,-1.0,5.0,"Betfair Sportsbook, BoyleSports, PaddyPower",-1.0,20.0,10–20%
+2026-09-24,Netherlands vs Germany,International,Cards,Player shown a card - Nico Schlotterbeck,Loss,5.5,Bet365,-1.0,5.0,"Betfair Exchange, Skybet",-1.0,10.0,10–20%
+2026-09-24,Netherlands vs Germany,International,Cards,Player shown a card - Jan Paul Van Hecke,Win,6.0,"Bet365, SkyBet",5.0,5.5,"Betfair Sportsbook, PaddyPower",4.5,9.1,5–10%
+2026-09-24,Netherlands vs Germany,International,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-24,Norway vs Denmark,International,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-25,Italy Vs Belgium,International,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-09-25,Italy Vs Belgium,International,Other,Belgium 1x2,Win,3.35,Exchanges,2.35,3.2,,2.2,4.7,<5%
+2026-09-25,Poland Vs Bosnia,International,Cards,Player shown a card - Nikola Katic,Loss,5.0,"888sport, William Hill",-1.0,5.0,"10bet, Coral, Ladbrokes, MGM",-1.0,0.0,<5%
+2026-09-25,Poland Vs Bosnia,International,Other,Over 0.5 shots on target - Nikola Katic,Loss,6.5,"Coral, Ladbrokes",-1.0,6.0,Bet365,-1.0,8.3,5–10%
+2026-09-25,Turkey Vs France,International,Anytime goalscorer,Anytime goalscorer - Can Uzun,Loss,5.5,SkyBet,-1.0,5.0,"Bet365, PaddyPower, SkyBet",-1.0,10.0,10–20%
+2026-09-25,Poland Vs Bosnia,International,Anytime goalscorer,Anytime goalscorer - Haris Tabakovic,Loss,4.33,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,4.7,SBK,-1.0,-7.9,<5%
+2026-09-26,England vs Spain,International,Anytime goalscorer,Both teams to score - No,Loss,2.34,Exchange,-1.0,2.25,,-1.0,4.0,<5%
+2026-09-26,England vs Spain,International,Anytime goalscorer,Anytime goalscorer - Ferran Torres,Win,3.25,Bet365,2.25,3.5,SBK,2.5,-7.1,<5%
+2026-09-26,England vs Spain,International,First goalscorer,First goalscorer - Ferran Torres,Loss,8.5,Bet365,-1.0,8.6,"Exchange, SBK",-1.0,-1.2,<5%
+2026-09-26,Czechia vs Croatia,International,Other,Over 1.5 fouls committed - Pavel Sulc,Loss,2.78,"Coral, Ladbrokes",-1.0,2.6,Betway,-1.0,6.9,5–10%
+2026-09-26,North Macedonia vs Switzerland,International,Anytime goalscorer,Anytime goalscorer - Zeki Amdouni,Win,2.4,bet365,1.4,2.3,"888sport, Betfair Sportsbook, PaddyPower, William Hill",1.3,4.3,<5%
+2026-09-26,Albania vs Belarus,International,Anytime goalscorer,Anytime goalscorer - Kristian Asllani,Win,6.0,"Betfair Sportsbook, PaddyPower, SkyBet",5.0,5.5,"888sport, Bet365, William Hill",4.5,9.1,5–10%
+2026-09-27,Lithuania Vs Azerbaijan,International,Anytime goalscorer,Anytime goalscorer - Gvidas Gineitis,Loss,7.4,SBK,-1.0,7.0,"888sport, Betfair Sportsbook, Betfred, PaddyPower, SkyBet, William Hill",-1.0,5.7,5–10%
+2026-09-27,Denmark Vs Wales,International,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, Bet365, William Hill",-1.0,8.3,5–10%
+2026-09-27,Serbia Vs Netherlands,International,Anytime goalscorer,Anytime goalscorer - Denzel Dumfries,Loss,6.5,Bet365,-1.0,6.0,SkyBet,-1.0,8.3,5–10%
+2026-09-27,Serbia Vs Netherlands,International,Cards,Player shown a card - Jan Paul Van Hecke,Loss,6.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.5,Bet365,-1.0,9.1,5–10%
+2026-09-27,Germany Vs Greece,International,Cards,Player shown a card - Jonathan Tah,Loss,6.5,Bet365,-1.0,5.8,"888sport, William Hill",-1.0,12.1,10–20%
+2026-09-27,Norway Vs Portugal,International,Anytime goalscorer,Anytime goalscorer - Matias Ramos,Win,2.75,Bet365,1.75,2.5,"Betfair Sportsbook, PaddyPower, SkyBet",1.5,10.0,10–20%
+2026-09-28,Turkey vs Italy,International,Other,Turkey 1x2,Loss,2.8,Exchanges,-1.0,2.5,,-1.0,12.0,10–20%
+2026-09-28,Belgium vs France,International,Anytime goalscorer,Anytime goalscorer - Mika Godts,Loss,5.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,5.6,SBK,-1.0,-10.7,<5%
+2026-09-28,Belgium vs France,International,Anytime goalscorer,Anytime goalscorer - Esteban LePaul,Loss,3.0,SkyBet,-1.0,2.8,"Betfair Sportsbook, MGM, PaddyPower",-1.0,7.1,5–10%
+2026-09-28,Sweden vs Poland,International,Anytime goalscorer,Anytime goalscorer - Benjamin Nygren,Win,3.75,SkyBet,2.75,3.5,Bet365,2.5,7.1,5–10%
+2026-09-29,Scotland vs Switzerland,International,Other,Over 0.5 shots on target - Billy Gilmour,Loss,5.5,Bet365,-1.0,4.0,"Betfair Sportsbook, PaddyPower",-1.0,37.5,30%+
+2026-09-29,Scotland vs Switzerland,International,Anytime goalscorer,Anytime goalscorer - Zeki Amdouni,Win,2.88,"Betfair Sportsbook, PaddyPower, SkyBet",1.88,2.75,"888sport, William Hill",1.75,4.7,<5%
+2026-09-29,Czechia vs England,International,Cards,Player shown a card - Morgan Rogers,Loss,7.0,Bet365,-1.0,6.4,SBK,-1.0,9.4,5–10%
+2026-09-29,Spain vs Croatia,International,Anytime goalscorer,Anytime goalscorer - Ivan Perisic,Loss,11.0,BetMGM,-1.0,9.0,"888sport, William Hill",-1.0,22.2,20–30%
+2026-10-01,Greece vs Netherlands,International,Anytime goalscorer,Anytime goalscorer - Mexx Meerdink,Loss,2.75,"Bet365, SkyBet",-1.0,2.7,"Betfair Sportsbook, MGM, PaddyPower",-1.0,1.9,<5%
+2026-10-01,Greece vs Netherlands,International,Anytime goalscorer,Anytime goalscorer - Konstantinos Mavropanos,Loss,12.0,Betfred,-1.0,13.0,QuinnBet,-1.0,-7.7,<5%
+2026-10-01,Greece vs Netherlands,International,Cards,Player shown a card - Micky van de Ven,Loss,5.5,Skybet,-1.0,5.0,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,10.0,10–20%
+2026-10-01,Ireland vs Austria,International,Anytime goalscorer,Anytime goalscorer - Sasa Kalajdzic,Loss,3.0,"Betfair Sportsbook, MGM, PaddyPower, Skybet, bet365",-1.0,2.88,"888sport, William Hill",-1.0,4.2,<5%
+2026-10-02,Belgium vs Turkey,International,Anytime goalscorer,Anytime goalscorer - Mika Godts,Loss,3.0,"Bet365, Betfair Sportsbook, MGM, PaddyPower, Skybet",-1.0,2.9,"888sport, Boylesports, William Hill",-1.0,3.4,<5%
+2026-10-02,Faroe Islands vs Slovakia,International,Other,Double chance - home or draw,Win,2.3,Exchanges,1.3,2.15,,1.15,7.0,5–10%
+2026-10-02,Belgium vs Turkey,International,Anytime goalscorer,Both teams to score - No,Win,2.54,Exchanges,1.54,2.5,,1.5,1.6,<5%
+2026-10-02,France vs Italy,International,Cards,Over 1.5 fouls committed - Ricardo Calafiori,Loss,3.0,"Coral, Ladbrokes",-1.0,2.8,Betway,-1.0,7.1,5–10%
+2026-10-03,Croatia vs England,International,Cards,Player shown a card - Jarrell Quansah,Loss,7.0,Bet365,-1.0,5.8,"888sport, William Hill",-1.0,20.7,20–30%
+2026-10-03,North Macedonia vs Scotland,International,Other,Over 0.5 shots on target - Billy Gilmour,Loss,3.5,Bet365,-1.0,3.1,SBK,-1.0,12.9,10–20%
+2026-10-03,Switzerland vs Slovenia,International,Cards,Player shown a card - Manuel Akanji,Loss,8.0,"888sport, William Hill",-1.0,7.5,Bet365,-1.0,6.7,5–10%
+2026-10-03,Spain vs Czechia,International,Other,Over 6.5 goalkeeper saves - Czechia,Win,6.0,"Betfair Sportsbook, PaddyPower",5.0,5.5,SkyBet,4.5,9.1,5–10%
+2026-10-04,Wales vs Denmark,International,Other,Over 4.5 goalkeeper saves - Denmark,Loss,8.0,Bet365,-1.0,7.0,"Betfair Sportsbook, PaddyPower",-1.0,14.3,10–20%
+2026-10-04,Greece vs Germany,International,Other,Double chance - Home or Draw,Win,2.08,Exchanges,1.08,2.0,,1.0,4.0,<5%
+2026-10-04,Wales vs Denmark,International,Cards,Player shown a card - Jordan James,Loss,4.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,4.33,"Coral, Ladbrokes",-1.0,-7.6,<5%
+2026-10-04,Netherlands vs Serbia,International,Anytime goalscorer,Anytime goalscorer - Denzel Dumfries,Loss,5.0,bet365,-1.0,4.8,"888sport, William Hill",-1.0,4.2,<5%
+2026-10-05,Ukraine vs Hungary,International,Cards,Player shown a card - Dominik Szoboszlai,Loss,6.0,"888sport, William Hill",-1.0,6.0,"10bet, MGM",-1.0,0.0,<5%
+2026-10-05,Ukraine vs Hungary,International,Cards,Player shown a card - Milan Laszlo Toth,Loss,4.5,"Bet365, SBK",-1.0,,,,,No MGP
+2026-10-05,France vs Belgium,International,Cards,Player shown a card - Timothy Castagne,Loss,6.0,"10bet, MGM",-1.0,,,,,No MGP
+2026-10-06,Scotland vs Slovenia,International,Anytime goalscorer,Anytime goalscorer - Oli McBurnie,Loss,3.25,Skybet,-1.0,2.9,"888sport, William Hill",-1.0,12.1,10–20%
+2026-10-06,Scotland vs Slovenia,International,First goalscorer,First goalscorer - Oli McBurnie,Loss,6.0,"Bet365, Betfair Sportsbook, PaddyPower, Skybet",-1.0,6.0,SportingIndex,-1.0,0.0,<5%
+2026-10-06,Scotland vs Slovenia,International,Other,Over 0.5 shots on target - Andy Robertson,Loss,5.5,SBK,-1.0,4.5,"Betfair Sportsbook, PaddyPower",-1.0,22.2,20–30%
+2026-10-06,Scotland vs Slovenia,International,Other,Over 1.5 shots on target - Ryan Christie,Win,7.0,Skybet,6.0,6.5,"Betfair Sportsbook, PaddyPower",5.5,7.7,5–10%
+2026-10-09,Dortmund vs Werder Bremen,Bundesliga,Corners,Over 11.5 match corners,Win,3.75,BoyleSports,2.75,3.5,"888sport, Coral, Ladbrokes, William Hill",2.5,7.1,5–10%
+2026-10-09,Lens vs Lyon,Ligue 1,Anytime goalscorer,Anytime goalscorer - Corentin Tolisso,Loss,4.5,Skybet,-1.0,4.2,BetMGM,-1.0,7.1,5–10%
+2026-10-09,West Ham vs QPR,Championship,Method of goal,Method of 1st goal - header,Loss,6.0,"365, 888, William Hill",-1.0,,,,,No MGP
+2026-10-09,Malaga vs Espanyol,La Liga,Cards,Player shown a card - Omar El Hilali,Win,4.7,SBK,3.7,4.2,"Betfair Sportsbook, PaddyPower",3.2,11.9,10–20%
+2026-10-09,West Ham vs QPR,Championship,Corners,Over 12.5 match corners,Loss,3.4,BoyleSports,-1.0,3.25,"Coral, Ladbrokes, Skybet",-1.0,4.6,<5%
+2026-10-10,Arsenal vs Leeds,Premier League,Anytime goalscorer,Anytime goalscorer - Bukayo Saka,Loss,3.0,Skybet,-1.0,2.75,"Bet365, MGM",-1.0,9.1,5–10%
+2026-10-10,Plymouth Vs AFC Wimbledon,Other,Method of goal,Method of 1st goal - Header,Loss,6.0,"888sport, Bet365, William Hill",-1.0,,,,,No MGP
+2026-10-10,Swansea Vs Norwich,Championship,Corners,Over 10.5 match corners,Loss,2.55,"Betfair Sportsbook, IvyBet, PaddyPower",-1.0,2.5,"Betfred, Betvictor, Betway, BoyleSports, SkyBet",-1.0,2.0,<5%
+2026-10-10,Blackburn vs Cardiff,Championship,Cards,Most corners - Cardiff,Loss,2.38,"BoyleSports, Skybet",-1.0,2.25,"Bet365, BetMGM",-1.0,5.8,5–10%
+2026-10-10,Union Berlin vs Elversberg,Bundesliga,Anytime goalscorer,Anytime goalscorer - Woo-Yeong Jeong,Loss,4.33,Skybet,-1.0,4.1,SBK,-1.0,5.6,5–10%
+2026-10-10,Union Berlin vs Elversberg,Bundesliga,Anytime goalscorer,Anytime goalscorer - Zeno van den Bosch,Loss,19.0,Skybet,-1.0,16.0,Betfred,-1.0,18.8,10–20%
+2026-10-10,Mainz vs Bayer Leverkusen,Bundesliga,Cards,Player shown a card - Anthony Caci,Loss,5.5,Skybet,-1.0,4.7,SBK,-1.0,17.0,10–20%
+2026-10-10,Hoffenheim vs Hamburg,Bundesliga,Anytime goalscorer,Anytime goalscorer - Youssef Poulsen,Win,4.75,Bet365,3.75,4.4,SBK,3.4,8.0,5–10%
+2026-10-10,Preston vs Millwall,Championship,Cards,Player shown a card - Harry Clarke,Loss,4.2,"888, William Hill",-1.0,4.33,"10bet, MGM",-1.0,-3.0,<5%
+2026-10-10,Chelsea vs Bournemouth,Premier League,Cards,Player shown a card - Marcus Tavernier,Win,5.0,"Betfair Sportsbook, Betway, PaddyPower, Skybet",4.0,4.75,Bet365,3.75,5.3,5–10%
+2026-10-10,Watford vs Burnley,Championship,Cards,Player shown a card - Kyle Walker,Loss,4.75,William Hill,-1.0,4.6,"Coral, Ladbrokes",-1.0,3.3,<5%
+2026-10-10,Aston Villa vs Brentford,Premier League,Cards,Player shown a card - Vitaly Janelt,Win,4.2,MGM,3.2,3.8,"888sport, William Hill",2.8,10.5,10–20%
+2026-10-10,Aston Villa vs Brentford,Premier League,Anytime goalscorer,Anytime goalscorer - Keane Lewis-Potter,Loss,7.5,,-1.0,,,,,No MGP
+2026-10-10,Blackburn vs Cardiff,Championship,Cards,Player shown a card - Sean McLoughlin,Loss,5.5,365,-1.0,5.0,William Hill,-1.0,10.0,10–20%
+2026-10-10,Blackburn vs Cardiff,Championship,Anytime goalscorer,Anytime goalscorer - Callum Robinson,Win,3.25,Skybet,2.25,3.1,"10bet, BFSB, MGM, Paddy Power",2.1,4.8,<5%
+2026-10-10,Burnley vs Watford,Championship,Anytime goalscorer,Anytime goalscorer - Edo Kayembe,Loss,6.5,365,-1.0,5.5,PaddyPower,-1.0,18.2,10–20%
+2026-10-10,Rangers vs Kilmarnock,SPFL,Anytime goalscorer,Anytime goalscorer - Nico Raskin,Loss,5.5,Skybet,-1.0,4.8,"888sport, William Hill",-1.0,14.6,10–20%
+2026-10-10,Bolton vs Stoke,Championship,Cards,Player shown a card - Ben Davies,Loss,5.5,"365, Skybet",-1.0,5.0,"10bet, BFSB, BetVictor, MGM, Paddy Power",-1.0,10.0,10–20%
+2026-10-10,Sunderland vs Brighton,Premier League,Anytime goalscorer,Anytime goalscorer - Wilson Isidor,Loss,3.25,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,3.0,Bet365,-1.0,8.3,5–10%
+2026-10-10,Middlesbrough vs Wolves,Championship,Cards,Player shown a card - Adam Armstrong,Loss,7.5,"PaddyPower, Skybet",-1.0,7.0,William Hill,-1.0,7.1,5–10%
+2026-10-10,Middlesbrough vs Wolves,Championship,Cards,Player shown a card - Kieran Trippier,Loss,5.8,William Hill,-1.0,6.0,"10bet, MGM",-1.0,-3.3,<5%
+2026-10-10,Ipswich vs Fulham,Premier League,Cards,Player shown a card - Josh King,Win,6.5,BetMGM,5.5,6.0,"888sport, William Hill",5.0,8.3,5–10%
+2026-10-10,Middlesbrough vs Wolves,Championship,Anytime goalscorer,Anytime goalscorer - Tommy Conway,Loss,3.25,Skybet,-1.0,3.1,"365, Paddy Power",-1.0,4.8,<5%
+2026-10-10,Alaves vs Atletico Madrid,La Liga,Cards,Player shown a card - Abderrahman Rebbach,Loss,4.5,"10bet, MGM",-1.0,4.0,"888sport, Bet365, William Hill",-1.0,12.5,10–20%
+2026-10-10,Manchester United vs Tottenham Hotspur,Premier League,Anytime goalscorer,Anytime goalscorer - Dominic Solanke,Win,3.6,MGM,2.6,3.8,"Coral, Exchanges, Ladbrokes",2.8,-5.3,<5%
+2026-10-10,Real Madrid vs Villarreal,La Liga,Anytime goalscorer,Anytime goalscorer - Ayoze Perez,Loss,3.5,"Paddy Power, Skybet",-1.0,3.7,"Coral, Ladbrokes",-1.0,-5.4,<5%
+2026-10-11,Como vs Roma,Serie A,Anytime goalscorer,Anytime goalscorer - Jacobo Ramon,Loss,21.0,"Betfair Sportsbook, Paddy Power, Skybet",-1.0,17.0,"10bet, MGM, Quinnbet",-1.0,23.5,20–30%
+2026-10-11,Southampton vs Portsmouth,Championship,Corners,Southampton over 8.5 corners,Loss,3.8,"Betfair Sportsbook, Paddy Power",-1.0,3.5,"BetGoodwin, Betfred, Skybet",-1.0,8.6,5–10%
+2026-10-11,Hull vs Everton,Premier League,Cards,Player shown a card - Ryan Giles,Loss,7.5,10bet,-1.0,6.5,"888sport, William Hill",-1.0,15.4,10–20%
+2026-10-11,Hull vs Everton,Premier League,Cards,Player shown a card - James Garner,Loss,5.0,10bet,-1.0,4.7,SBK,-1.0,6.4,5–10%
+2026-10-11,Hull vs Everton,Premier League,Cards,Player shown a card - Ainsley Maitland-Niles,Win,7.0,"888sport, William Hill",6.0,7.5,"10bet, Betfair Exchange",6.5,-6.7,<5%
+2026-10-11,Lecce vs Bologna,Serie A,Other,Player 1+ Shots on Target - Youssef Maleh,Loss,4.5,"Betfair Sportsbook, Paddy Power",-1.0,4.2,"Coral, Ladbrokes",-1.0,7.1,5–10%
+2026-10-11,Lecce vs Bologna,Serie A,Other,Player over 2.5 fouls won - Roberto Piccoli,Win,4.0,"Betfair Sportsbook, Paddy Power, Skybet",3.0,,,,,No MGP
+2026-10-11,Lazio vs Monza,Serie A,Other,Player over 1.5 shots - Danilo Doekhi,Loss,4.6,"Coral, Ladbrokes",-1.0,3.6,Betway,-1.0,27.8,20–30%
+2026-10-11,Crystal Palace vs Nottingham Forest,Premier League,Other,Anytime assist - Adam Wharton,Win,8.0,Unibet,7.0,7.0,Bet365,6.0,14.3,10–20%
+2026-10-11,FC Koln vs Borussia Monchengladbach,Bundesliga,Anytime goalscorer,Anytime goalscorer - Isac Lidberg,Loss,3.25,Skybet,-1.0,,,,,No MGP
+2026-10-11,FC Koln vs Borussia Monchengladbach,Bundesliga,Anytime goalscorer,Anytime goalscorer - Kevin Diks,Loss,9.5,"Coral, Ladbrokes",-1.0,9.0,"Betfred, QuinnBet",-1.0,5.6,5–10%
+2026-10-11,Liverpool vs Man City,Premier League,Anytime goalscorer,Anytime goalscorer - Alexis Mac Allister,Loss,9.0,Skybet,-1.0,8.5,Betfred,-1.0,5.9,5–10%
+2026-10-12,Atalanta vs Venezia,Serie A,Corners,Over 6.5 Atalanta corners,Win,3.2,PaddyPower,2.2,2.88,"BetAhoy, BetGoodwin, BetTom, BoyleSports",1.88,11.1,10–20%
+2026-10-12,Atalanta vs Venezia,Serie A,Other,Over 1.5 fouls - Akor Adams,Loss,3.4,Bet365,-1.0,3.25,"BetVictor, Coral, Ladbrokes",-1.0,4.6,<5%
+2026-10-12,Atalanta vs Venezia,Serie A,Anytime goalscorer,Anytime goalscorer - Ederson,Loss,8.0,SkyBet,-1.0,7.0,"888, William Hill",-1.0,14.3,10–20%
+2026-10-12,Coventry vs Newcastle,Premier League,Cards,Player shown a card - Milan van Ewijk,Win,6.0,MGM,5.0,6.0,"10bet, Betfair Exchange",5.0,0.0,<5%
+2026-10-12,Levante vs Sevilla,La Liga,Cards,Player shown a card - Jeremy Toljan,Loss,7.0,MGM,-1.0,6.5,"888, William Hill",-1.0,7.7,5–10%
+2026-10-12,Levante vs Sevilla,La Liga,First goalscorer,First Goalscorer - Robbie Ure,Win,6.4,SBK,5.4,6.25,"AKBets, PricedUp, StarSports",5.25,2.4,<5%
+2026-10-13,Atletico Madrid vs Man Utd,Other,Corners,Over 12.5 match corners,Loss,5.5,"Betfair Sportsbook, PaddyPower",-1.0,5.0,Skybet,-1.0,10.0,10–20%
+2026-10-13,Cardiff vs Watford,Championship,Cards,Over 9.5 Cardiff corners,Loss,5.5,"Betfair Sportsbook, PaddyPower",-1.0,5.0,"888sport, Skybet, William Hill",-1.0,10.0,10–20%
+2026-10-13,Cardiff vs Watford,Championship,Anytime goalscorer,Anytime goalscorer - Myron Boadu,Loss,3.75,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,3.4,Bet365,-1.0,10.3,10–20%
+2026-10-13,Cardiff vs Watford,Championship,Anytime goalscorer,Anytime goalscorer - Ollie Tanner,Win,4.33,Skybet,3.33,4.0,SBK,3.0,8.3,5–10%
+2026-10-13,Cardiff vs Watford,Championship,Other,Anytime assist - Joel Bagan,Loss,6.5,"SportingIndex, SpreadEx",-1.0,6.0,Bet365,-1.0,8.3,5–10%
+2026-10-13,Atletico Madrid vs Man Utd,Other,Cards,Player shown a card - Johnny Cardoso,Loss,7.0,Boylesports,-1.0,6.5,Bet365,-1.0,7.7,5–10%
+2026-10-13,Atletico Madrid vs Man utd,Other,Cards,Player shown a card - Cristian Romero,Loss,4.33,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,4.33,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-10-14,Norwich vs Southampton,Championship,Corners,Over 12.5 match corners,Loss,3.9,"888sport, William Hill",-1.0,3.7,"Coral, Ladbrokes",-1.0,5.4,5–10%
+2026-10-14,Man City vs PSG,Other,Corners,Over 12.5 match corners,Win,5.75,"Coral, Ladbrokes",4.75,5.5,"Betfair Sportsbook, PaddyPower, Skybet",4.5,4.5,<5%
+2026-10-14,Lincoln vs West Ham,Championship,Corners,Over 12.5 match corners,Win,3.75,Boylesports,2.75,3.6,"Betfair Sportsbook, PaddyPower, SportingIndex, SpreadEx",2.6,4.2,<5%
+2026-10-14,LASK vs Liverpool,Other,Cards,Player shown a card - Xavier Mbuyama,Loss,5.5,"Bet365, MGM",-1.0,5.0,"888sport, Skybet, William Hill",-1.0,10.0,10–20%
+2026-10-14,Portsmouth vs Sheffield United,Championship,Cards,Player shown a card - Marlon Pack,Loss,4.75,"888sport, William Hill",-1.0,5.0,"10bet, BetMGM",-1.0,-5.0,<5%
+2026-10-14,Portsmouth vs Sheffield United,Championship,Cards,Player shown a card - Japhet Tanganga,Loss,4.4,"888sport, William Hill",-1.0,4.5,"10bet, BetMGM, Coral, Ladbrokes",-1.0,-2.2,<5%
+2026-10-14,Norwich vs Southampton,Championship,Anytime goalscorer,Anytime goalscorer - Ryan Manning,Loss,8.0,"AKBets, PricedUp, QuinnBet, StarSports",-1.0,,,,,No MGP
+2026-10-14,Man City vs PSG,Other,Anytime goalscorer,Anytime goalscorer - Ousmane Dembele,Win,2.8,MGM,1.8,2.6,"888, Bet365, Betfair Sportsbook, PaddyPower, Skybet, William Hill",1.6,7.7,5–10%
+2026-10-14,Man City vs PSG,Other,Other,Over 1.5 fouls - Vitinha,Loss,5.5,Bet365,-1.0,5.0,"Betfair Sportsbook, PaddyPower",-1.0,10.0,10–20%
+2026-10-14,Roma vs Real Madrid,Other,Anytime goalscorer,Anytime goalscorer - Denzel Dumfries,Loss,12.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,10.0,"Coral, Ladbrokes, MGM, Quinnbet",-1.0,20.0,10–20%
+2026-10-14,Lincoln vs West Ham,Championship,Cards,Player shown a card - Callum Elder,Loss,6.5,"10bet, MGM",-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-10-14,Aston Villa vs Fenerbahce,Other,Anytime goalscorer,Anytime goalscorer - Ibrahim Mbaye,Loss,3.75,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,3.4,"888sport, William Hill",-1.0,10.3,10–20%
+2026-10-14,Bodo/Glimt vs Dortmund,Other,Anytime goalscorer,Anytime goalscorer - Ramy Bensebaini,Loss,8.5,Skybet,-1.0,7.4,Betfair Exchange,-1.0,14.9,10–20%
+2026-10-14,Bodo/Glimt vs Dortmund,Other,Anytime goalscorer,Anytime goalscorer - Maximilian Beier,Loss,3.5,Skybet,-1.0,3.4,"Betfair Sportsbook, PaddyPower",-1.0,2.9,<5%
+2026-10-15,Lyon vs Crystal Palace,Other,Anytime goalscorer,Anytime goalscorer - Corentin Tolisso,Win,4.5,Skybet,3.5,4.33,"BetMGM, Betfair Sportsbook, PaddyPower",3.33,3.9,<5%
+2026-10-15,Torreense vs Sunderland,Other,Anytime goalscorer,Anytime goalscorer - Timur Tutierov,Loss,2.5,Skybet,-1.0,2.3,SBK,-1.0,8.7,5–10%
+2026-10-15,CSKA Sofia vs Monaco,Other,Anytime goalscorer,Anytime goalscorer - Ansu Fati,Win,2.5,"Bet365, Skybet",1.5,2.4,"888, Betfair Sportsbook, PaddyPower, William Hill",1.4,4.2,<5%
+2026-10-15,Lech Poznan vs Bayer Leverkusen,Other,Anytime goalscorer,Anytime goalscorer - Aleix Garcia,Loss,6.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.8,"888sport, William Hill",-1.0,3.4,<5%
+2026-10-15,Celta Vigo Vs Juventus,Other,Cards,Player shown a card - Lloyd Kelly,Win,5.5,"Betfair Sportsbook, MGM, PaddyPower, SkyBet",4.5,5.0,"888, William Hill",4.0,10.0,10–20%
+2026-10-15,Marseille Vs Olympiakos,Other,Anytime goalscorer,Anytime goalscorer - Neal Maupay,Loss,3.3,"Betfair Sportsbook, PaddyPower",-1.0,3.25,"Bet365, SkyBet",-1.0,1.5,<5%
+2026-10-15,Hoffenheim vs Besiktas,Other,Cards,Player shown a card - Bernardo,Loss,3.9,William Hill,-1.0,4.0,"10bet, MGM",-1.0,-2.5,<5%
+2026-10-15,Celta Vigo vs Juventus,Other,Anytime goalscorer,Anytime goalscorer - Marcos Alonso,Loss,15.0,Skybet,-1.0,14.0,Paddy Power,-1.0,7.1,5–10%
+2026-10-15,Benfica Vs Celtic,Other,Anytime goalscorer,Anytime goalscorer - Alexander Bah,Win,8.0,"Bet365, Betfair Sportsbook, PaddyPower, Skybet",7.0,7.5,"888, MGM, William Hill",6.5,6.7,5–10%
+2026-10-16,Burnley vs Wolves,Championship,Corners,Over 12.5 match corners,Loss,5.0,Boylesports,-1.0,4.6,"Coral, Ladbrokes",-1.0,8.7,5–10%
+2026-10-16,Le Mans vs Toulouse,Ligue 1,Corners,Over 12.5 match corners,Loss,6.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.8,"888sport, William Hill",-1.0,3.4,<5%
+2026-10-16,Frosinone vs Sassuolo,Serie A,Corners,Over 12.5 match corners,Loss,3.8,"888sport, Coral, Ladbrokes, William Hill",-1.0,3.75,BoyleSports,-1.0,1.3,<5%
+2026-10-16,Eintracht Frankfurt vs FC Koln,Bundesliga,Corners,Over 8.5 Frankfurt corners,Loss,6.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.5,"888sport, BetAhoy, BetGoodwin, BetTom, William Hill",-1.0,9.1,5–10%
+2026-10-16,Eintracht Frankfurt vs FC Koln,Bundesliga,Anytime goalscorer,Anytime goalscorer - Marius Bulter,Loss,3.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,3.4,MGM,-1.0,2.9,<5%
+2026-10-16,Burnley Vs Wolves,Championship,Cards,Player shown a card - Kyle Walker,Win,5.0,"10bet, MGM",4.0,4.5,"888, Bet365, William Hill",3.5,11.1,10–20%
+2026-10-16,Le Mans vs Toulouse,Ligue 1,Anytime goalscorer,Anytime goalscorer - Casper Tengstedt,Win,2.88,"888sport, MGM, SkyBet, William Hill",1.88,,,,,No MGP
+2026-10-16,Le Mans vs Toulouse,Ligue 1,Cards,Player shown a card - Mark McKenzie,Loss,5.0,"888, MGM, William Hill",-1.0,5.0,10bet,-1.0,0.0,<5%
+2026-10-16,Deportivo La Coruna Vs Levante,La Liga,Cards,Player shown a card - Ifeanye Ndukwe,Loss,6.0,MGM,-1.0,5.5,"Coral, Ladbrokes",-1.0,9.1,5–10%
+2026-10-17,Millwall vs Lincoln,Championship,Method of goal,Method of first goal - header,Loss,6.0,"365, 888, William Hill",-1.0,,,,,No MGP
+2026-10-17,Millwall vs Lincoln,Championship,Cards,Player shown a card - Freddie Draper,Win,4.2,William Hill,3.2,4.5,"10bet, MGM",3.5,-6.7,<5%
+2026-10-17,Middlesbrough vs Cardiff,Championship,Anytime goalscorer,Anytime goalscorer - Kyle Joseph,Win,3.0,"Betfair Sportsbook, PaddyPower, SkyBet",2.0,2.75,Boylesports,1.75,9.1,5–10%
+2026-10-17,Middlesbrough vs Cardiff,Championship,Corners,Over 12.5 match corners,Win,3.2,"Coral, Ladbrokes",2.2,3.0,"BetAhoy, BetGoodwin, BetTom, Betfair Sportsbook, PaddyPower, SkyBet",2.0,6.7,5–10%
+2026-10-17,Millwall vs Lincoln,Championship,Corners,Over 8.5 home corners,Win,5.5,"Betfair Sportsbook, Paddy Power",4.5,4.8,William Hill,3.8,14.6,10–20%
+2026-10-17,Everton vs Chelsea,Premier League,Cards,Player shown a card - Moises Caicedo,Loss,3.7,SBK,-1.0,3.6,Bet365,-1.0,2.8,<5%
+2026-10-17,Espanyol vs Atletico Madrid,La Liga,Anytime goalscorer,Anytime goalscorer - Ademola Lookman,Loss,3.1,Paddy Power,-1.0,3.0,"MGM, Skybet",-1.0,3.3,<5%
+2026-10-17,Swansea vs West Ham,Championship,Corners,Over 6.5 Swansea corners,Loss,5.5,"Betfair Sportsbook, PaddyPower",-1.0,5.0,Skybet,-1.0,10.0,10–20%
+2026-10-17,Brentford vs Liverpool,Premier League,Cards,Player shown a card - Dominik Szoboszlai,Loss,4.8,William Hill,-1.0,4.8,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-10-17,Brentford vs Liverpool,Premier League,Cards,Player shown a card - Vitaly Janelt,Win,3.8,William Hill,2.8,4.0,"10bet, MGM",3.0,-5.0,<5%
+2026-10-17,Swansea vs West Ham,Championship,Anytime goalscorer,Anytime goalscorer - Joseph Opoku,Loss,4.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,4.2,"888sport, William Hill",-1.0,7.1,5–10%
+2026-10-17,Man City vs Ipswich,Premier League,Cards,Player shown a card - Phil Foden,Loss,13.0,365,-1.0,15.0,"10bet, MGM",-1.0,-13.3,<5%
+2026-10-17,Fulham vs Hull,Premier League,Cards,Player shown a card - Joshua King,Win,7.5,"888sport, William Hill",6.5,8.0,10bet,7.0,-6.2,<5%
+2026-10-17,Bristol City vs Sheff Utd,Championship,Cards,Player shown a card - Cam Pring,Loss,4.33,"Coral, Ladbrokes",-1.0,4.0,"10bet, MGM",-1.0,8.3,5–10%
+2026-10-17,Derby vs Stoke,Championship,Anytime goalscorer,Anytime Goalscorer - Lamine Cisse,Loss,3.5,Skybet,-1.0,3.4,"Betfair Sportsbook, MGM",-1.0,2.9,<5%
+2026-10-17,Derby vs Stoke,Championship,Cards,Player shown a card - Sam Szmodics,Loss,6.0,Skybet,-1.0,5.5,"Betfair Sportsbook, Betway, Coral, Ladbrokes, Paddy Power",-1.0,9.1,5–10%
+2026-10-17,Norwich vs Portsmouth,Championship,Cards,Player shown a card - Jayden Meghoma,Loss,5.5,365,-1.0,4.33,"Coral, Ladbrokes",-1.0,27.0,20–30%
+2026-10-17,Norwich vs Portsmouth,Championship,Cards,Player shown a card - Ben Chrisene,Win,6.5,William Hill,5.5,6.5,"Coral, Ladbrokes",5.5,0.0,<5%
+2026-10-17,Norwich vs Portsmouth,Championship,Anytime goalscorer,Anytime goalscorer - Jovon Makama,Loss,2.88,Skybet,-1.0,2.75,"10bet, MGM, William Hill",-1.0,4.7,<5%
+2026-10-17,Aberdeen vs St Mirren,SPFL,Anytime goalscorer,Anytime goalscorer - Killian Phillips,Loss,5.5,Bet365,-1.0,5.5,"AKbets, PricedUp, StarSports",-1.0,0.0,<5%
+2026-10-17,Southampton vs Bolton,Championship,Cards,Player shown a card - James Bree,Loss,7.5,365,-1.0,7.0,"Coral, Ladbrokes",-1.0,7.1,5–10%
+2026-10-17,West Brom vs Blackburn,Championship,Anytime goalscorer,Anytime goalscorer - Barney Stewart,Win,3.3,Paddy Power,2.3,3.25,Skybet,2.25,1.5,<5%
+2026-10-17,Wrexham vs Preston,Championship,Corners,Over 8.5 Wrexham corners,Loss,5.2,"Betfair Sportsbook, PaddyPower",-1.0,5.0,Skybet,-1.0,4.0,<5%
+2026-10-17,Villarreal vs Elche,La Liga,Cards,Player shown a card - German Valera,Loss,6.5,"365, PaddyPower, Skybet",-1.0,,,,,No MGP
+2026-10-17,Newcastle vs Aston Villa,Premier League,Anytime goalscorer,Anytime goalscorer - Nicolas Jackson,Loss,2.63,"Bet365, Skybet",-1.0,2.5,"Betfair Sportsbook, PaddyPower",-1.0,5.2,5–10%
+2026-10-17,Dundee vs Rangers,SPFL,Anytime goalscorer,Anytime goalscorer - Nicolas Raskin,Win,7.4,SBK,6.4,6.5,"888sport, Betfair Sportsbook, PaddyPower, Skybet, William Hill",5.5,13.8,10–20%
+2026-10-17,Roma vs Genoa,Serie A,Corners,Most corners - Genoa,Loss,7.0,Boylesports,-1.0,,,,,No MGP
+2026-10-17,Valencia vs Athletic Bilbao,La Liga,Cards,Over 5.5 match cards,Win,3.9,"Betfair Sportsbook, PaddyPower, Skybet",2.9,,,,,No MGP
+2026-10-17,Dundee vs Rangers,SPFL,Anytime goalscorer,Anytime goalscorer - Min-Su Kim,Loss,3.25,Skybet,-1.0,3.2,"888sport, William Hill",-1.0,1.6,<5%
+2026-10-18,Udinese vs Lecce,Serie A,Anytime goalscorer,Anytime goalscorer - Keinan Davis,Loss,2.63,Skybet,-1.0,2.63,"Betfair Sportsbook, MGM, Paddy Power",-1.0,0.0,<5%
+2026-10-18,Osasuna Vs Racing Santander,La Liga,Corners,Over 8.5 Osasuna corners,Loss,6.5,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,5.8,"888sport, William Hill",-1.0,12.1,10–20%
+2026-10-18,Brighton vs Crystal Palace,Premier League,Corners,Over 9.5 Brighton corners,Loss,6.5,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,5.5,,-1.0,18.2,10–20%
+2026-10-18,Leeds vs Man Utd,Premier League,Corners,Most corners - Leeds,Loss,2.3,BoyleSports,-1.0,2.2,"Bet365, BetVictor, Betfred, Quinnbet, SportingIndex, SpreadEx",-1.0,4.5,<5%
+2026-10-18,Leeds vs Man Utd,Premier League,Corners,Under 3.5 Man Utd corners,Win,3.3,BetVictor,2.3,3.2,"888sport, William Hill",2.2,3.1,<5%
+2026-10-18,Bournemouth vs Sunderland,Premier League,Cards,Player shown a card - Marcus Tavernier,Loss,6.0,"Betfair Sportsbook, Paddy Power, Skybet",-1.0,5.5,365,-1.0,9.1,5–10%
+2026-10-18,Bournemouth vs Sunderland,Premier League,Anytime goalscorer,Anytime goalscorer - Ryan Christie,Loss,8.0,Bet365,-1.0,7.0,SBK,-1.0,14.3,10–20%
+2026-10-18,Brighton vs Crystal Palace,Premier League,Anytime goalscorer,Anytime goalscorer - Yeremy Pino,Loss,8.0,"Betfair Sportsbook, Paddy Power, Skybet",-1.0,6.5,"365, MGM",-1.0,23.1,20–30%
+2026-10-18,Bournemouth vs Sunderland,Premier League,Cards,Player shown a card - Ryan Christie,Win,4.8,"888sport, William Hill",3.8,4.0,Bet365,3.0,20.0,10–20%
+2026-10-18,Celtic vs Hearts,SPFL,Anytime goalscorer,Anytime goalscorer - Callum McGregor,Loss,9.0,Skybet,-1.0,9.0,"Betfair Sportsbook, PaddyPower",-1.0,0.0,<5%
+2026-10-18,Malaga vs Real Sociedad,La Liga,Corners,Over 12.5 match corners,Loss,4.8,"Betfair Sportsbook, PaddyPower",-1.0,4.33,"Bet365, Skybet",-1.0,10.9,10–20%
+2026-10-18,Real Madrid vs Sevilla,La Liga,Cards,Player shown a card - Juan Iglesias,Win,5.5,SBK,4.5,5.0,"Betfair Sportsbook, PaddyPower, Skybet",4.0,10.0,10–20%
+2026-10-18,Real Madrid vs Sevilla,La Liga,Other,Over 0.5 shots on target - Yousuf Fofana,Win,3.5,Skybet,2.5,4.5,"Betfair Sportsbook, PaddyPower",3.5,-22.2,<5%
+2026-10-19,Monza Vs Cagliari,Serie A,Cards,Player shown a card - Jose Ze Pedro,Loss,5.5,"Bet365, MGM",-1.0,5.0,"888sport, William Hill",-1.0,10.0,10–20%
+2026-10-19,Tottenham vs Coventry,Premier League,Cards,Player shown a card - Micky van de Ven,Loss,6.5,Bet365,-1.0,5.8,"888sport, William Hill",-1.0,12.1,10–20%
+2026-10-19,Tottenham vs Coventry,Premier League,Method of goal,Method of 1st goal - Header,Loss,6.5,Betway,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-10-19,Getafe vs Rayo Vallecano,La Liga,Anytime goalscorer,Anytime goalscorer - Enes Unal,Loss,4.5,Skybet,-1.0,4.33,"888sport, Bet365, MGM, William Hill",-1.0,3.9,<5%
+2026-10-20,PSG vs Barcelona,Other,Corners,Over 12.5 match corners,Loss,5.2,"Betfair Sportsbook, PaddyPower",-1.0,4.8,Boylesports,-1.0,8.3,5–10%
+2026-10-20,PSG vs Barcelona,Other,Corners,Over 6.5 PSG corners,Loss,3.8,"Betfair Sportsbook, PaddyPower",-1.0,3.5,"Bet365, Boylesports, Skybet",-1.0,8.6,5–10%
+2026-10-20,Liverpool vs Villarreal,Other,Corners,Over 8.5 Liverpool corners,Loss,4.5,Bet365,-1.0,4.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,12.5,10–20%
+2026-10-20,Stuttgart vs Atletico Madrid,Other,Corners,Over 12.5 match corners,Win,4.5,"Betfair Sportsbook, PaddyPower",3.5,4.33,"BoyleSports, Skybet",3.33,3.9,<5%
+2026-10-20,Liverpool vs Villarreal,Other,Anytime goalscorer,Anytime goalscorer - Alexis Mac Allister,Win,6.0,Skybet,5.0,5.0,"888, Bet365, William Hill",4.0,20.0,10–20%
+2026-10-20,PSG vs Barcelona,Other,Other,Over 1.5 fouls committed - Vitinha,Loss,5.0,Bet365,-1.0,4.5,"Betfair Sportsbook, PaddyPower",-1.0,11.1,10–20%
+2026-10-20,Stuttgart vs Atletico Madrid,Other,Cards,Player shown a card - David Hancko,Loss,7.0,"10bet, Coral, Ladbrokes",-1.0,6.5,"888sport, William Hill",-1.0,7.7,5–10%
+2026-10-20,Stuttgart vs Atletico Madrid,Other,Cards,Player shown a card - Marcos Llorente,Loss,5.5,"Betfair Sportsbook, Skybet",-1.0,5.0,"Betway, PaddyPower",-1.0,10.0,10–20%
+2026-10-20,Wolves vs Portsmouth,Championship,Cards,Player shown a card - Jayden Meghoma,Loss,5.0,"Bet365, SBK",-1.0,4.5,"Coral, Ladbrokes",-1.0,11.1,10–20%
+2026-10-20,Stuttgart vs Atletico Madrid,Other,Anytime goalscorer,Anytime goalscorer - Deniz Undav,Loss,2.6,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,,,,,No MGP
+2026-10-20,Stuttgart vs Atletico Madrid,Other,Cards,Player shown a card - Alejandro Grimaldo,Loss,5.5,"888sport, Bet365, Betfred, William Hill",-1.0,6.5,"Coral, Ladbrokes",-1.0,-15.4,<5%
+2026-10-21,Real Madrid vs RB Leipzig,Other,Corners,Over 9.5 Real Madrid corners,Loss,5.5,"888sport, William Hill",-1.0,5.2,"Betfair Sportsbook, PaddyPower",-1.0,5.8,5–10%
+2026-10-21,Real Madrid vs RB Leipzig,Other,Corners,Over 12.5 match corners,Loss,3.9,"888sport, William Hill",-1.0,3.75,"Bet365, Skybet",-1.0,4.0,<5%
+2026-10-21,Como vs Man Utd,Other,Corners,Over 6.5 Como corners,Loss,3.6,"Betfair Sportsbook, PaddyPower",-1.0,3.5,Skybet,-1.0,2.9,<5%
+2026-10-21,Como vs Man Utd,Other,Other,Over 0.5 shots on target from outside the box - Lucas da Cunha,Loss,6.5,"888sport, William Hill",-1.0,5.0,Bet365,-1.0,30.0,30%+
+2026-10-21,Como vs Man Utd,Other,Cards,Player shown a card - Nico Paz,Loss,6.5,"Betfair Sportsbook, PaddyPower",-1.0,7.2,SBK,-1.0,-9.7,<5%
+2026-10-21,Lille Vs Galatasaray,Other,Anytime goalscorer,Anytime goalscorer - Soriba Diouane,Win,3.75,SkyBet,2.75,3.6,"Betfair Sportsbook, PaddyPower",2.6,4.2,<5%
+2026-10-21,Levante vs Athletic Bilbao,La Liga,Anytime goalscorer,Anytime goalscorer - Maroan Sannadi,Loss,3.5,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,3.2,Bet365,-1.0,9.4,5–10%
+2026-10-21,Real Madrid vs RB Leipzig,Other,Cards,Player shown a card - Neil El Aynaoui,Win,3.9,"SportingIndex, SpreadEx",2.9,3.5,Bet365,2.5,11.4,10–20%
+2026-10-21,Real Madrid vs RB Leipzig,Other,Anytime goalscorer,Anytime goalscorer - Romulo,Loss,4.0,MGM,-1.0,3.7,"888sport, William Hill",-1.0,8.1,5–10%
+2026-10-21,Bayern Munich vs Arsenal,Other,Cards,Player shown a card - Gabriel,Loss,5.0,Bet365,-1.0,4.75,"888sport, AKBets, PricedUp, StarSports, William Hill",-1.0,5.3,5–10%
+2026-10-21,Bayern Munich vs Arsenal,Other,Cards,Player shown a card - Dayot Upamecano,Loss,5.5,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.0,Betway,-1.0,10.0,10–20%
+2026-10-21,Inter Milan vs Shakhtar,Other,Anytime goalscorer,Anytime goalscorer - Federico DiMarco,Loss,5.5,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.5,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-10-22,Bournemouth vs Milan,Other,Corners,Over 7.5 Bournemouth corners,Loss,4.8,"Betfair Sportsbook, PaddyPower",-1.0,4.33,"Bet365, Skybet",-1.0,10.9,10–20%
+2026-10-22,Hoffenheim vs Lyon,Other,Corners,Over 12.5 match corners,Win,4.2,"888sport, William Hill",3.2,3.9,"BetAhoy, BetTom, Coral, Ivybet, Ladbrokes",2.9,7.7,5–10%
+2026-10-22,Juventus vs Rennes,Other,Corners,Over 7.5 Juventus corners,Loss,3.5,Betfred,-1.0,3.3,"Betfair Sportsbook, PaddyPower",-1.0,6.1,5–10%
+2026-10-22,Lech Poznan vs Sunderland,Other,Anytime goalscorer,Anytime goalscorer - Timur Tutierov,Win,2.88,Bet365,1.88,2.5,"Betfair Sportsbook, Paddypower",1.5,15.2,10–20%
+2026-10-22,Getafe vs Lugano,Other,Anytime goalscorer,Anytime goalscorer - Francho Serrano,Loss,9.0,Skybet,-1.0,8.0,"888sport, William Hill",-1.0,12.5,10–20%
+2026-10-22,Juventus vs Rennes,Other,Other,Over 0.5 shots on target - Mahdi Camara,Loss,3.75,"888sport, Bet365, William Hill",-1.0,3.5,"Betfair Sportsbook, PaddyPower",-1.0,7.1,5–10%
+2026-10-22,Bournemouth Vs Milan,Other,Anytime goalscorer,Anytime goalscorer - Alphadjo Cisse,Loss,4.0,"888sport, Bet365, William Hill",-1.0,3.5,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,14.3,10–20%
+2026-10-22,Hoffenheim Vs Lyon,Other,Cards,Player shown a card - Robin Hranac,Loss,6.0,"888sport, William Hill",-1.0,5.5,Bet365,-1.0,9.1,5–10%
+2026-10-22,Hoffenheim Vs Lyon,Other,Anytime goalscorer,Anytime goalscorer - Kail Boudache,Loss,4.33,Skybet,-1.0,4.2,"Betfair Sportsbook, PaddyPower",-1.0,3.1,<5%
+2026-10-22,Monaco Vs Freiburg,Other,Anytime goalscorer,Anytime goalscorer - Paris Brunner,Win,3.0,Skybet,2.0,2.38,Bet365,1.38,26.1,20–30%
+2026-10-22,Monaco Vs Freiburg,Other,Anytime goalscorer,Player to score 2 or more - Paris Brunner,Loss,13.0,Skybet,-1.0,9.0,Bet365,-1.0,44.4,30%+
+2026-10-22,Besiktas Vs Crystal Palace,Other,Cards,Player shown a card - Daichi Kamada,Loss,6.5,Bet365,-1.0,5.5,SBK,-1.0,18.2,10–20%
+2026-10-22,Besiktas Vs Crystal Palace,Other,Cards,Player shown a card - Tyrick Mitchell,Loss,7.0,Bet365,-1.0,6.0,"888sport, William Hill",-1.0,16.7,10–20%
+2026-10-23,Bolton vs Middlesbrough,Championship,Corners,Over 12.5 match corners,Win,3.6,"Betfair Sportsbook, BoyleSports, Coral, Ladbrokes, PaddyPower",2.6,3.5,"Bet365, Skybet",2.5,2.9,<5%
+2026-10-23,Stuttgart vs Borussia Monchengladbach,Bundesliga,Anytime goalscorer,Anytime goalscorer - Maximilian Mittelstadt,Loss,5.5,Skybet,-1.0,5.2,Betfred,-1.0,5.8,5–10%
+2026-10-23,Ipswich vs Nottingham Forest,Premier League,Cards,Player shown a card - Leif Davis,Loss,6.5,Skybet,-1.0,6.0,"10bet, 888, Betfair Sportsbook, Betway, Coral, Ladbrokes, PaddyPower, William Hill",-1.0,8.3,5–10%
+2026-10-23,Alaves vs Malaga,La Liga,Cards,Player shown a card - Abderrahman Rebbach,Loss,4.75,"888sport, William Hill",-1.0,5.0,10bet,-1.0,-5.0,<5%
+2026-10-23,Alaves vs Malaga,La Liga,Cards,Player shown a card - David Larrubia,Loss,7.0,"888sport, Skybet, William Hill",-1.0,7.0,"10bet, Betfair Sportsbook, PaddyPower",-1.0,0.0,<5%
+2026-10-23,Brest Vs Nice,Ligue 1,Anytime goalscorer,Anytime goalscorer - Kenny Lala,Loss,8.5,Betfred,-1.0,,,,,No MGP
+2026-10-23,Alaves vs Malaga,La Liga,Anytime goalscorer,Anytime goalscorer - Adrian Nino,Win,5.0,SKybet,4.0,4.33,Bet365,3.33,15.5,10–20%
+2026-10-24,Portsmouth vs Millwall,Championship,Cards,Player shown a card - Zak Sturge,Loss,4.5,"888sport, William Hill",-1.0,4.5,"10bet, MGM",-1.0,0.0,<5%
+2026-10-24,Aston Villa vs Man City,Premier League,Corners,Over 12.5 match corners,Loss,4.8,"Betfair Sportsbook, PaddyPower",-1.0,4.33,"888sport, Skybet, William Hill",-1.0,10.9,10–20%
+2026-10-24,Sheffield United vs Derby,Championship,Anytime goalscorer,Anytime goalscorer - Harrison Burrows,Loss,7.0,"Bet365, Betfair Sportsbook, Betfred, PaddyPower, Skybet",-1.0,7.5,"SportingIndex, SpreadEx",-1.0,-6.7,<5%
+2026-10-24,Sheffield United vs Derby,Championship,Cards,Player shown a card - Ryan Hedges,Loss,5.0,Skybet,-1.0,4.5,"Betfair Sportsbook, PaddyPower",-1.0,11.1,10–20%
+2026-10-24,Rayo Vallecano vs Elche,La Liga,Anytime goalscorer,Anytime goalscorer - Fernando/Fer Nino,Win,3.25,"Bet365, SBK, Skybet",2.25,3.0,"Boylesports, MGM",2.0,8.3,5–10%
+2026-10-24,Como vs Sassuolo,Serie A,Anytime goalscorer,Anytime goalscorer - Domenico Berardi,Loss,4.2,Betfred,-1.0,4.33,Quinnbet,-1.0,-3.0,<5%
+2026-10-24,Como vs Sassuolo,Serie A,Anytime goalscorer,Anytime goalscorer - Marc-Oliver Kempf,Loss,12.0,Skybet,-1.0,9.5,"Coral, Ladbrokes",-1.0,26.3,20–30%
+2026-10-24,Cagliari vs Bologna,Serie A,Cards,Player shown a card - Arthur Theate,Loss,5.5,MGM,-1.0,5.0,"888sport, William Hill",-1.0,10.0,10–20%
+2026-10-24,Cagliari vs Bologna,Serie A,Anytime goalscorer,Anytime goalscorer - Fernando Bernardeschi,Win,4.5,"MGM, Skybet",3.5,4.0,"888sport, Betfred, Boylesports, William Hill",3.0,12.5,10–20%
+2026-10-24,Paderborn vs Hamburg,Bundesliga,Anytime goalscorer,Anytime goalscorer - Youssuf Poulsen,Loss,3.25,"365, Skybet",-1.0,3.2,PaddyPower,-1.0,1.6,<5%
+2026-10-24,Mainz vs Werder Bremen,Bundesliga,Anytime goalscorer,Anytime goalscorer - Kacper Potulski,Loss,12.0,Skybet,-1.0,10.0,"Betfred, Coral, Ladbrokes, MGM",-1.0,20.0,10–20%
+2026-10-24,Leipzig vs Elversberg,Bundesliga,Cards,Player shown a card - Rocco Reitz,Win,9.0,365,8.0,7.5,"10bet, Coral, Ladbrokes, MGM",6.5,20.0,10–20%
+2026-10-24,Leipzig vs Elversberg,Bundesliga,Anytime goalscorer,Anytime goalscorer - Ezechiel Banzuzi,Win,5.5,Skybet,4.5,5.25,"Coral, Ladbrokes",4.25,4.8,<5%
+2026-10-24,FC Koln vs Schalke,Bundesliga,Corners,Over 7.5 Koln corners,Loss,4.33,Bet365,-1.0,4.0,"BetAhoy, BetTom, Betfair Sportsbook, PaddyPower",-1.0,8.3,5–10%
+2026-10-24,Wolves vs Watford,Championship,Corners,Over 9.5 Wolves corners,Win,5.5,"365, Betfair Sportsbook, PaddyPower, Skybet",4.5,5.0,William Hill,4.0,10.0,10–20%
+2026-10-24,Cardiff vs Birmingham,Championship,Anytime goalscorer,Anytime goalscorer - Luis Vasquez,Loss,3.25,"Bet365, Betfair Sportsbook, PaddyPower, Skybet",-1.0,3.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-10-24,QPR vs Swansea,Championship,Anytime goalscorer,Anytime goalscorer - Adam Idah,Loss,3.0,"Paddy Power, Skybet, William Hill",-1.0,3.0,"AK Bets, Bet Victor, MGM, Star Sports",-1.0,0.0,<5%
+2026-10-24,Lincoln vs Burnley,Championship,Anytime goalscorer,Anytime goalscorer - Largie Ramazani,Loss,3.75,Skybet,-1.0,3.4,"888sport, Bet365, Betfred, William Hill",-1.0,10.3,10–20%
+2026-10-24,Lincoln vs Burnley,Championship,Anytime goalscorer,Anytime goalscorer - Mikkel Ladegofed,Win,3.25,"888sport, Betfair Sportsbook, PaddyPower, Skybet, William Hill",2.25,3.0,,2.0,8.3,5–10%
+2026-10-24,Stoke vs Bristol City,Championship,Cards,Player shown a card - Bosun Lawal,Loss,5.5,Skybet,-1.0,5.0,"10bet, Betfair Sportsbook, Betway, MGM, PaddyPower",-1.0,10.0,10–20%
+2026-10-24,Lincoln vs Burnley,Championship,Cards,Player shown a card - Kyle Walker,Loss,5.25,"Coral, Ladbrokes",-1.0,4.5,"888sport, Boylesports, William Hill",-1.0,16.7,10–20%
+2026-10-24,Wolverhampton vs Watford,Championship,Cards,Player shown a card - Yerson Mosquera,Loss,5.5,William Hill,-1.0,5.0,"Coral, Ladbrokes",-1.0,10.0,10–20%
+2026-10-24,Lincoln vs Burnley,Championship,Cards,Player shown a card - Reo Hatate,Loss,6.5,"888sport, William Hill",-1.0,6.5,"10bet, MGM",-1.0,0.0,<5%
+2026-10-24,Lincoln vs Burnley,Championship,Cards,Player shown a card - Connor McGrandles,Loss,4.5,"888sport, William Hill",-1.0,4.5,"10bet, MGM",-1.0,0.0,<5%
+2026-10-24,Coventry vs Fulham,Premier League,Cards,Player shown a card - Tatsuhiro Sakamoto,Loss,8.5,MGM,-1.0,7.5,"888sport, William Hill",-1.0,13.3,10–20%
+2026-10-24,Coventry vs Fulham,Premier League,Cards,Player shown a card - Timothy Castagne,Loss,5.5,Bet365,-1.0,5.0,"888sport, William Hill",-1.0,10.0,10–20%
+2026-10-24,Santander vs Espanyol,La Liga,Anytime goalscorer,Anytime goalscorer - Yassir Zabiri,Win,2.2,365,1.2,2.25,"AK Bets, PricedUp, Starsports, Unibet",1.25,-2.2,<5%
+2026-10-24,Chelsea Vs Tottenham,Premier League,Anytime goalscorer,Anytime goalscorer - Cole Palmer,Loss,2.75,SkyBet,-1.0,2.6,"888sport, Betfair Sportsbook, Betfred, PaddyPower, William Hill",-1.0,5.8,5–10%
+2026-10-24,Valencia vs Villarreal,La Liga,Anytime goalscorer,Anytime goalscorer - Jose Pepelu,Win,11.0,Skybet,10.0,9.0,MGM,8.0,22.2,20–30%
+2026-10-24,Valencia vs Villarreal,La Liga,Cards,Player shown a card - Justin de Haas,Loss,4.5,"888sport, William Hill",-1.0,4.5,"10bet, Coral, Ladbrokes",-1.0,0.0,<5%
+2026-10-24,Lens vs Paris FC,Ligue 1,Anytime goalscorer,Anytime goalscorer - Mathieu Udol,Loss,12.0,Skybet,-1.0,10.5,Betfred,-1.0,14.3,10–20%
+2026-10-24,Lens vs Paris FC,Ligue 1,Corners,Over 5.5 Paris corners,Loss,4.5,"Betfair Sportsbook, PaddyPower",-1.0,,,,,No MGP
+2026-10-25,Inter vs Fiorentina,Serie A,Method of goal,Method of first goal - header,Loss,6.5,Betway,-1.0,5.5,Bet365,-1.0,18.2,10–20%
+2026-10-25,Crystal Palace vs Newcastle,Premier League,Cards,Player shown a card - Daichi Kamada,Loss,6.5,MGM,-1.0,6.0,"888sport, William Hill",-1.0,8.3,5–10%
+2026-10-25,Crystal Palace vs Newcastle,Premier League,Other,Anytime assist - Adam Wharton,Loss,7.0,"888sport, William Hill",-1.0,7.0,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-10-25,Hull Vs Brentford,Premier League,Anytime goalscorer,Anytime goalscorer - Keane Lewis-Potter,Loss,5.5,SkyBet,-1.0,5.0,"Betfair Sportsbook, Betfred, PaddyPower",-1.0,10.0,10–20%
+2026-10-25,Hull Vs Brentford,Premier League,Cards,Player shown a card - Ryan Giles,Loss,6.5,Bet365,-1.0,5.5,Boylesports,-1.0,18.2,10–20%
+2026-10-25,Hull Vs Brentford,Premier League,Cards,Player shown a card - John Egan,Loss,5.5,Skybet,-1.0,5.0,"Betfair Sportsbook, Betway, Coral, Ladbrokes, PaddyPower",-1.0,10.0,10–20%
+2026-10-25,Man Utd vs Bournemouth,Premier League,Corners,Over 5.5 Bournemouth corners,Loss,3.3,"Betfair Sportsbook, PaddyPower",-1.0,3.1,"BetVictor, Coral, Ladbrokes",-1.0,6.5,5–10%
+2026-10-25,Man Utd vs Bournemouth,Premier League,Cards,Player shown a card - Marcus Tavernier,Loss,5.0,Skybet,-1.0,4.5,"Betfair Sportsbook, Betway, PaddyPower",-1.0,11.1,10–20%
+2026-10-25,Liverpool vs Brighton,Premier League,Anytime goalscorer,Anytime goalscorer - Pascal Gross,Loss,6.0,"Betfred, Skybet",-1.0,6.5,"Coral, Ladbrokes, Quinnbet",-1.0,-7.7,<5%
+2026-10-25,Monaco vs Lille,Ligue 1,Anytime goalscorer,Anytime goalscorer - Ansu Fati,Loss,3.0,Skybet,-1.0,2.88,"365, 888sport, SBK, William Hill",-1.0,4.2,<5%
+2026-10-25,Atalanta vs Frosinone,Serie A,Anytime goalscorer,Anytime goalscorer - Ederson Silva,Win,7.5,Skybet,6.5,7.0,"888sport, Betfred, Coral, Ladbrokes, William Hill",6.0,7.1,5–10%
+2026-10-25,Auxerre vs Le Mans,Ligue 1,Cards,Player shown a card - Clement Akpa,Loss,6.5,Skybet,-1.0,6.5,"Betfair Sportsbook, PaddyPower",-1.0,0.0,<5%
+2026-10-25,Auxerre vs Le Mans,Ligue 1,Cards,Player shown a card - Christ Makosso,Loss,5.5,Bet365,-1.0,4.8,"Coral, Ladbrokes, SBK",-1.0,14.6,10–20%
+2026-10-25,Rennes vs Strasbourg,Ligue 1,Anytime goalscorer,Anytime goalscorer - Conrad Harder,Loss,3.5,Skybet,-1.0,3.2,Bet365,-1.0,9.4,5–10%
+2026-10-25,Rennes vs Strasbourg,Ligue 1,Cards,Player shown a card - Anthony Rouault,Loss,8.0,Skybet,-1.0,8.0,"Betfair Sportsbook, PaddyPower, SBK",-1.0,0.0,<5%
+2026-10-25,Marseille vs Le Havre,Ligue 1,Anytime goalscorer,Anytime goalscorer - Rayan Fofana,Loss,4.33,"Bet365, Skybet",-1.0,4.0,"888sport, SBK, William Hill",-1.0,8.3,5–10%
+2026-10-26,Sevilla vs Osasuna,La Liga,Corners,Over 7.5 Sevilla corners,Loss,4.8,"888sport, Betfair Sportsbook, PaddyPower, William Hill",-1.0,4.75,Bet365,-1.0,1.1,<5%
+2026-10-26,Lyon vs PSG,Ligue 1,Corners,Over 12.5 match corners,Loss,4.33,"Betfair Sportsbook, Boylesports, PaddyPower",-1.0,4.0,"888sport, Coral, Ladbrokes, William Hill",-1.0,8.3,5–10%
+2026-10-26,Lyon vs PSG,Ligue 1,Anytime goalscorer,Anytime goalscorer - Corentin Tolisso,Loss,7.0,SBK,-1.0,5.5,"888, Betfred, William Hill",-1.0,27.3,20–30%
+2026-10-26,Sevilla vs Osasuna,La Liga,Other,Over 1.5 shots on target - Youssouf Fofana,Loss,10.0,Skybet,-1.0,10.0,"Betfair Sportsbook, PaddyPower",-1.0,0.0,<5%
+2026-10-27,MK Dons vs Bromley,Other,Corners,Over 8.5 MK Dons corners,Loss,4.8,"Betfair Sportsbook, PaddyPower",-1.0,4.5,Skybet,-1.0,6.7,5–10%
+2026-10-27,Sheffield Wednesday vs Cambridge Utd,Other,Corners,Over 13.5 match corners,Win,5.5,"Betfair Sportsbook, PaddyPower",4.5,5.0,"888sport, Bet365, William Hill",4.0,10.0,10–20%
+2026-10-27,Leicester vs Wigan,Other,Corners,Over 9.5 Leicester corners,Loss,5.2,"Betfair Sportsbook, PaddyPower",-1.0,4.8,"888sport, William Hill",-1.0,8.3,5–10%
+2026-10-27,Luton vs Doncaster,Other,Corners,Over 8.5 Luton corners,Loss,3.3,"Betfair Sportsbook, PaddyPower",-1.0,3.1,"888sport, William Hill",-1.0,6.5,5–10%
+2026-10-27,Torino vs Como,Serie A,Anytime goalscorer,Anytime goalscorer - Jacobo Ramon,Win,14.0,10bet,13.0,13.0,"888sport, BetVictor, William Hill",12.0,7.7,5–10%
+2026-10-27,Roma vs Cagliari,Serie A,Anytime goalscorer,Anytime goalscorer - Matias Soule,Loss,3.0,Skybet,-1.0,2.75,"Bet365, Betfred",-1.0,9.1,5–10%
+2026-10-28,AC Milan vs Bologna,Serie A,Anytime goalscorer,Anytime goalscorer - Federico Bernardeschi,Loss,6.4,SBK,-1.0,5.0,Skybet,-1.0,28.0,20–30%
+2026-10-28,AC Milan vs Bologna,Serie A,Corners,Most corners - Bologna,Win,4.33,Boylesports,3.33,4.0,"Betfair Sportsbook, PaddyPower, Skybet",3.0,8.3,5–10%
+2026-10-28,Man City vs Brighton,Premier League,Cards,Player shown a card - Oliver Boscagli,Loss,5.5,10bet,-1.0,5.0,"888sport, Bet365, Skybet, William Hill",-1.0,10.0,10–20%
+2026-10-28,Sunderland vs Brentford,Premier League,Corners,Over 7.5 Brentford corners,Loss,5.0,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,4.6,"888sport, William Hill",-1.0,8.7,5–10%
+2026-10-28,Fulham vs Crystal Palace,Premier League,Anytime goalscorer,Anytime goalscorer - Evan Guessand,Loss,6.5,Skybet,-1.0,5.8,"888sport, William Hill",-1.0,12.1,10–20%
+2026-10-28,Bournemouth vs Aston Villa,Premier League,Cards,Player shown a card - Marcus Tavernier,Loss,6.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.5,"Bet365, SBK",-1.0,9.1,5–10%
+2026-10-28,Bournemouth vs Aston Villa,Premier League,Anytime goalscorer,Anytime goalscorer - Ibrahim Mbaye,Loss,5.0,"Bet365, Betfair Sportsbook, PaddyPower, Skybet",-1.0,4.5,SBK,-1.0,11.1,10–20%
+2026-10-28,Bournemouth vs Aston Villa,Premier League,Corners,Over 7.5 Bournemouth corners,Loss,4.5,"Betfair Sportsbook, PaddyPower",-1.0,4.33,"888sport, Skybet, William Hill",-1.0,3.9,<5%
+2026-10-28,Hearts vs Rangers,SPFL,Anytime goalscorer,Anytime goalscorer - Nicolas Raskin,Loss,7.5,Skybet,-1.0,7.0,"888sport, Coral, Ladbrokes, William Hill",-1.0,7.1,5–10%
+2026-10-28,St Mirren vs Hibernian,SPFL,Anytime goalscorer,Anytime goalscorer - Killian Phillips,Loss,5.0,"AKBets, PricedUp, StarSports",-1.0,4.33,"365, Coral, Ladbrokes",-1.0,15.5,10–20%
+2026-10-28,Liverpool vs Chelsea,Premier League,Corners,Over 6.5 Liverpool corners,Win,3.4,Boylesports,2.4,,,,,No MGP
+2026-10-28,Genoa vs Juventus,Serie A,Cards,Player shown a card - Jhon Lucumi,Loss,5.75,"Coral, Ladbrokes",-1.0,5.5,"10bet, Betfair Sportsbook, Paddy Power, Skybet, William Hill",-1.0,4.5,<5%
+2026-10-29,Fiorentina vs Atalanta,Serie A,Anytime goalscorer,Anytime goalscorer - Ederson Silva,Loss,7.5,"888sport, William Hill",-1.0,7.5,"10bet, MGM",-1.0,0.0,<5%
+2026-10-29,Fiorentina vs Atalanta,Serie A,Corners,Over 6.5 Fiorentina corners,Win,4.0,"Betfair Sportsbook, PaddyPower, Skybet",3.0,,,,,No MGP
+2026-10-29,Fiorentina vs Atalanta,Serie A,Cards,Over 5.5 match cards,Loss,5.5,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,,,,,No MGP
+2026-10-29,Everton vs Newcastle,Premier League,Cards,Player shown a card - James Garner,Loss,4.5,10bet,-1.0,4.2,"888sport, William Hill",-1.0,7.1,5–10%
+2026-10-30,Le Havre vs PSG,Ligue 1,Cards,Player shown a card - Illia Zabarnyi,Loss,7.0,"888sport, William Hill",-1.0,6.5,"10bet, Bet365",-1.0,7.7,5–10%
+2026-10-30,Nice vs Rennes,Ligue 1,Anytime goalscorer,Anytime goalscorer - Adrian Thomasson,Loss,6.5,"Coral, Ladbrokes, Quinnbet",-1.0,6.0,"Betfred, PricedUp, Skybet",-1.0,8.3,5–10%
+2026-10-30,Elversberg vs Mainz,Bundesliga,Corners,Over 7.5 Mainz corners,Win,5.0,"Bet365, Betfair Sportsbook, PaddyPower",4.0,4.5,Betfred,3.5,11.1,10–20%
+2026-10-30,Sheffield United vs Wrexham,Championship,Anytime goalscorer,Anytime goalscorer - Harrison Burrows,Loss,8.5,Skybet,-1.0,8.0,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,6.2,5–10%
+2026-10-30,Villarreal vs Espanyol,La Liga,Cards,Player shown a card - Roger Hinojo,Win,4.33,10bet,3.33,4.2,"Coral, Ladbrokes",3.2,3.1,<5%
+2026-10-30,Sheffield United vs Wrexham,Championship,Cards,Player shown a card - Kieffer Moore,Loss,6.0,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.5,"Bet365, SBK",-1.0,9.1,5–10%
+2026-10-30,Lille vs Lens,Ligue 1,Anytime goalscorer,Anytime goalscorer - Florian Thauvin,Loss,3.5,Skybet,-1.0,3.4,"888sport, Bet365, Betfred, William Hill",-1.0,2.9,<5%
+2026-10-31,Norwich Vs Watford,Championship,Corners,Over 12.5 match corners,Loss,4.5,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,4.2,"888, BoyleSports, William Hill",-1.0,7.1,5–10%
+2026-10-31,Chelsea Vs Man Utd,Premier League,Cards,Player shown a card - Diogo Dalot,Loss,4.33,"888sport, William Hill",-1.0,4.33,"Coral, Ladbrokes",-1.0,0.0,<5%
+2026-10-31,Lincoln Vs Birmingham,Championship,Anytime goalscorer,Anytime goalscorer - Mikkel Ladefoged,Loss,3.5,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,3.4,"888sport, William Hill",-1.0,2.9,<5%
+2026-10-31,Levante Vs Atlético Madrid,La Liga,Cards,Player shown a card - Jeremy Toljan,Loss,7.0,"888sport, MGM, William Hill",-1.0,6.0,Bet365,-1.0,16.7,10–20%
+2026-10-31,Levante Vs Atlético Madrid,La Liga,Anytime goalscorer,Anytime goalscorer - Julian Alvarez,Loss,2.2,"MGM, Skybet",-1.0,2.1,Bet365,-1.0,4.8,<5%
+2026-10-31,Schalke vs Leipzig,Bundesliga,Cards,Player shown a card - Rocco Reitz,Loss,6.0,"365, William Hill",-1.0,5.75,"Coral, Ladbrokes, MGM",-1.0,4.3,<5%
+2026-10-31,Schalke vs Leipzig,Bundesliga,Anytime goalscorer,Anytime goalscorer - Ezechiel Banzuzi,Loss,6.5,Skybet,-1.0,6.5,"Betfair Sportsbook, Coral, Ladbrokes, PaddyPower",-1.0,0.0,<5%
+2026-10-31,Werder Bremen vs Hoffenheim,Bundesliga,Cards,Player shown a card - Wouter Burger,Loss,4.33,Skybet,-1.0,4.0,Betway,-1.0,8.3,5–10%
+2026-10-31,Borussia Monchengladbach vs Paderborn,Bundesliga,Anytime goalscorer,Anytime goalscorer - Shuto Machino,Loss,2.88,Skybet,-1.0,2.6,"888sport, Bet365, Boylesports, William Hill",-1.0,10.8,10–20%
+2026-10-31,Borussia Monchengladbach vs Paderborn,Bundesliga,Anytime goalscorer,Anytime goalscorer - Santiago Castaneda,Loss,13.0,Skybet,-1.0,11.0,Bet365,-1.0,18.2,10–20%
+2026-10-31,Bolton vs Bristol,Championship,Cards,Player shown a card - Ben Davies,Loss,5.5,"365, Skybet",-1.0,5.0,"Paddy Power, William Hill",-1.0,10.0,10–20%
+2026-10-31,Bolton vs Bristol,Championship,Anytime goalscorer,Anytime goalscorer - Sam Dalby,Win,3.4,365,2.4,3.25,"Coral, Ladbrokes",2.25,4.6,<5%
+2026-10-31,Bournemouth vs Leeds,Premier League,Cards,Player shown a card - Marcus Tavernier,Loss,6.0,Skybet,-1.0,5.0,Bet365,-1.0,20.0,10–20%
+2026-10-31,Man City vs Brighton,Premier League,Anytime goalscorer,Anytime goalscorer - Pascal Gross,Loss,7.0,Betfred,-1.0,6.5,Skybet,-1.0,7.7,5–10%
+2026-10-31,Hull vs Ipswich,Premier League,Anytime goalscorer,Anytime goalscorer - Oliver McBurnie,Win,3.1,Bet365,2.1,3.0,"Betfair Sportsbook, PaddyPower, Skybet",2.0,3.3,<5%
+2026-10-31,Wolves vs Cardiff,Championship,Anytime goalscorer,Anytime goalscorer - Yousef Salech,Loss,3.25,"Paddy Power, Skybet",-1.0,3.4,MGM,-1.0,-4.4,<5%
+2026-10-31,Hull vs Ipswich,Premier League,Cards,Player shown a card - Ryan Giles,Loss,7.0,"888sport, William Hill",-1.0,6.5,Bet365,-1.0,7.7,5–10%
+2026-10-31,Wolves vs Cardiff,Championship,Cards,Player shown a card - Yerson Mosquera,Loss,5.0,William Hill,-1.0,4.8,"Coral, Ladbrokes",-1.0,4.2,<5%
+2026-10-31,Hull vs Ipswich,Premier League,Cards,Player shown a card - Leif Davis,Loss,6.5,10bet,-1.0,6.0,"888sport, Skybet, William Hill",-1.0,8.3,5–10%
+2026-10-31,Swansea vs Blackburn,Championship,Cards,Player shown a card - Sean McLoughlin,Loss,5.0,William Hill,-1.0,5.0,"10bet, Coral, Ladbrokes, MGM",-1.0,0.0,<5%
+2026-10-31,Millwall vs Derby,Championship,Corners,Over 8.5 Millwall corners,Loss,4.6,"888sport, William Hill",-1.0,4.5,"Betfair Sportsbook, PaddyPower",-1.0,2.2,<5%
+2026-10-31,Wolves vs Cardiff,Championship,Corners,Over 13.5 Match corners,Loss,4.8,"Betfair Sportsbook, PaddyPower",-1.0,4.6,"888, Coral, Ladbrokes, William Hill",-1.0,4.3,<5%
+2026-10-31,Southampton vs QPR,Championship,Corners,Over 5.5 QPR corners,Loss,3.6,"Betfair Sportsbook, PaddyPower",-1.0,3.5,Skybet,-1.0,2.9,<5%
+2026-10-31,Tottenham vs Crystal Palace,Premier League,Cards,Player shown a card - Micky van de Ven,Loss,6.5,Bet365,-1.0,5.25,"Coral, Ladbrokes",-1.0,23.8,20–30%
+2026-10-31,Rangers vs Aberdeen,SPFL,Anytime goalscorer,Anytime goalscorer - James Penrice,Loss,8.5,Bet365,-1.0,8.0,Skybet,-1.0,6.2,5–10%
+2026-10-31,Tottenham vs Crystal Palace,Premier League,Cards,Player shown a card - Daichi Kamada,Loss,5.5,"888sport, Bet365, William Hill",-1.0,6.0,10bet,-1.0,-8.3,<5%
+2026-10-31,Bayern Munich vs Borussia Dortmund,Bundesliga,Cards,Player shown a card - Nico Schlotterbeck,Loss,5.0,Skybet,-1.0,4.5,"Bet365, Betfair Sportsbook, PaddyPower",-1.0,11.1,10–20%
+2026-10-31,Aston Villa Vs Fulham,Premier League,Anytime goalscorer,Anytime goalscorer - Leon Goretzka,Loss,8.0,"Betfair Sportsbook, PaddyPower, SkyBet",-1.0,7.0,Bet365,-1.0,14.3,10–20%
+2026-11-01,Sheff Wed Vs Blackpool,Other,Corners,Over 8.5 Sheff Wed corners,Win,4.8,"Betfair Sportsbook, PaddyPower",3.8,4.5,"888sport, SkyBet, William Hill",3.5,6.7,5–10%
+2026-11-01,Strasbourg Vs Auxerre,Ligue 1,Anytime goalscorer,Anytime goalscorer - Conrad Harder,Win,2.88,"888, William Hill",1.88,2.75,SkyBet,1.75,4.7,<5%
+2026-11-01,Liverpool vs Arsenal,Premier League,Anytime goalscorer,Anytime goalscorer - Noni Madueke,Loss,4.75,Bet365,-1.0,4.5,"Betfair Sportsbook, PaddyPower, Skybet",-1.0,5.6,5–10%
+2026-11-01,Liverpool vs Arsenal,Premier League,Cards,Player shown a card - Gabriel Magalhaes,Loss,5.0,10bet,-1.0,4.75,Bet365,-1.0,5.3,5–10%
+2026-11-01,Lecce vs Genoa,Serie A,Cards,Over 4.5 match cards,Loss,3.25,Bet365,-1.0,2.9,"Betfair Sportsbook, PaddyPower",-1.0,12.1,10–20%
+2026-11-01,Elche vs Valencia,La Liga,Anytime goalscorer,Anytime goalscorer - Jose Pepelu,Loss,12.0,Skybet,-1.0,9.0,"10bet, BoyleSports",-1.0,33.3,30%+
+2026-11-01,Elche vs Valencia,La Liga,Anytime goalscorer,"Anytime goalscorer - Fernando ""Fer"" Nino",Loss,2.7,MGM,-1.0,2.6,"888sport, Bet365, Skybet, William Hill",-1.0,3.8,<5%
+2026-11-01,Marseille vs Toulouse,Ligue 1,Anytime goalscorer,Anytime goalscorer - Amine Gouiri,Win,2.25,"Betfred, Skybet",1.25,2.1,"Bet365, Boylesports",1.1,7.1,5–10%
+2026-11-01,Marseille vs Toulouse,Ligue 1,Anytime goalscorer,Anytime goalscorer - Kasper Tengstedt,Loss,3.5,Skybet,-1.0,3.0,"888sport, Bet365, William Hill",-1.0,16.7,10–20%
+2026-11-01,Juventus vs Napoli,Serie A,Anytime goalscorer,Anytime goalscorer - Mathias Olivera,Loss,26.0,Skybet,-1.0,23.0,"BetVictor, MGM, Pricedup",-1.0,13.0,10–20%
+2026-11-01,Juventus vs Napoli,Serie A,Corners,Over 5.5 Napoli corners,Loss,4.5,"Betfair Sportsbook, PaddyPower",-1.0,4.33,Skybet,-1.0,3.9,<5%
+2026-11-01,Athletic Bilbao vs Real Sociedad,La Liga,Anytime goalscorer,Anytime goalscorer - Alex Berenguer,Win,5.0,Skybet,4.0,4.5,"Betfair Sportsbook, PaddyPower",3.5,11.1,10–20%
